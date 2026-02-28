@@ -649,6 +649,7 @@ public enum LucideIcon
     FishOff,
     FishSymbol,
     FishingHook,
+    FishingRod,
     Flag,
     FlagOff,
     FlagTriangleLeft,
