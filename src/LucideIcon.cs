@@ -564,6 +564,7 @@ public enum LucideIcon
     Egg,
     EggFried,
     EggOff,
+    Ellipse,
     Ellipsis,
     EllipsisVertical,
     Equal,
