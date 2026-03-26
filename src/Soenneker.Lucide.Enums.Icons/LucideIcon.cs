@@ -946,6 +946,7 @@ public enum LucideIcon
     MapPinPen,
     MapPinPlus,
     MapPinPlusInside,
+    MapPinSearch,
     MapPinX,
     MapPinXInside,
     MapPinned,
