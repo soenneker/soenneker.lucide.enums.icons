@@ -215,6 +215,7 @@ public enum LucideIcon
     Bookmark,
     BookmarkCheck,
     BookmarkMinus,
+    BookmarkOff,
     BookmarkPlus,
     BookmarkX,
     BoomBox,
