@@ -38,7 +38,7 @@ jobs:
         run: dotnet build test/Soenneker.Lucide.Enums.Icons.Tests/Soenneker.Lucide.Enums.Icons.Tests.csproj --configuration Release --no-restore --verbosity minimal
 
       - name: Test
-        run: dotnet test test/Soenneker.Lucide.Enums.Icons.Tests/Soenneker.Lucide.Enums.Icons.Tests.csproj --configuration Release --no-build --no-restore --verbosity minimal
+        run: dotnet test --project test/Soenneker.Lucide.Enums.Icons.Tests/Soenneker.Lucide.Enums.Icons.Tests.csproj --configuration Release --no-build --no-restore --verbosity minimal
 
       - name: Pack
         run: dotnet pack src/Soenneker.Lucide.Enums.Icons/Soenneker.Lucide.Enums.Icons.csproj --configuration Release --no-build --no-restore --output . --verbosity minimal
