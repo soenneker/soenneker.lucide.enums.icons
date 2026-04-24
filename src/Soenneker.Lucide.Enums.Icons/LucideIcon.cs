@@ -1533,6 +1533,7 @@ public enum LucideIcon
     TicketX,
     Tickets,
     TicketsPlane,
+    Timeline,
     Timer,
     TimerOff,
     TimerReset,
