@@ -669,6 +669,7 @@ public enum LucideIcon
     FoldVertical,
     Folder,
     FolderArchive,
+    FolderBookmark,
     FolderCheck,
     FolderClock,
     FolderClosed,
