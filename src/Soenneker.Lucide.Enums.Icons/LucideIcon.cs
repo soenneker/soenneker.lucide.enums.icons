@@ -99,6 +99,7 @@ public enum LucideIcon
     ArrowUpZA,
     ArrowsUpFromLine,
     Asterisk,
+    Astroid,
     AtSign,
     Atom,
     AudioLines,
