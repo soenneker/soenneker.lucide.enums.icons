@@ -241,6 +241,7 @@ public enum LucideIcon
     BriefcaseConveyorBelt,
     BriefcaseMedical,
     BringToFront,
+    Broccoli,
     Brush,
     BrushCleaning,
     Bubbles,
