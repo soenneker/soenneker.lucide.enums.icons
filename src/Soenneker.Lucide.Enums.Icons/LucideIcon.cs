@@ -747,6 +747,7 @@ public enum LucideIcon
     GlassWater,
     Glasses,
     Globe,
+    GlobeCheck,
     GlobeLock,
     GlobeOff,
     GlobeX,
