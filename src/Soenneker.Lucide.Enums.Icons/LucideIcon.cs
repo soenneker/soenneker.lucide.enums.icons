@@ -6698,6 +6698,10 @@ public enum LucideIcon
     /// </summary>
     Webcam,
     /// <summary>
+    /// Represents the webcam off value.
+    /// </summary>
+    WebcamOff,
+    /// <summary>
     /// Represents the webhook value.
     /// </summary>
     Webhook,
