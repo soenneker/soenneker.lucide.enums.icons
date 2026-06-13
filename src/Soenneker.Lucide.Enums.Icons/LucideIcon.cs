@@ -26,6 +26,10 @@ public enum LucideIcon
     /// </summary>
     Activity,
     /// <summary>
+    /// Represents the ad value.
+    /// </summary>
+    Ad,
+    /// <summary>
     /// Represents the air vent value.
     /// </summary>
     AirVent,
@@ -537,6 +541,10 @@ public enum LucideIcon
     /// Represents the banknote arrow up value.
     /// </summary>
     BanknoteArrowUp,
+    /// <summary>
+    /// Represents the banknote check value.
+    /// </summary>
+    BanknoteCheck,
     /// <summary>
     /// Represents the banknote x value.
     /// </summary>
@@ -1726,6 +1734,14 @@ public enum LucideIcon
     /// </summary>
     ClockArrowDown,
     /// <summary>
+    /// Represents the clock arrow left value.
+    /// </summary>
+    ClockArrowLeft,
+    /// <summary>
+    /// Represents the clock arrow right value.
+    /// </summary>
+    ClockArrowRight,
+    /// <summary>
     /// Represents the clock arrow up value.
     /// </summary>
     ClockArrowUp,
@@ -2321,6 +2337,10 @@ public enum LucideIcon
     /// Represents the eye closed value.
     /// </summary>
     EyeClosed,
+    /// <summary>
+    /// Represents the eye dashed value.
+    /// </summary>
+    EyeDashed,
     /// <summary>
     /// Represents the eye off value.
     /// </summary>
@@ -3642,6 +3662,14 @@ public enum LucideIcon
     /// </summary>
     ListRestart,
     /// <summary>
+    /// Represents the list sort ascending value.
+    /// </summary>
+    ListSortAscending,
+    /// <summary>
+    /// Represents the list sort descending value.
+    /// </summary>
+    ListSortDescending,
+    /// <summary>
     /// Represents the list start value.
     /// </summary>
     ListStart,
@@ -4702,6 +4730,10 @@ public enum LucideIcon
     /// </summary>
     Podcast,
     /// <summary>
+    /// Represents the podium value.
+    /// </summary>
+    Podium,
+    /// <summary>
     /// Represents the pointer value.
     /// </summary>
     Pointer,
@@ -5078,9 +5110,21 @@ public enum LucideIcon
     /// </summary>
     SaveAll,
     /// <summary>
+    /// Represents the save check value.
+    /// </summary>
+    SaveCheck,
+    /// <summary>
     /// Represents the save off value.
     /// </summary>
     SaveOff,
+    /// <summary>
+    /// Represents the save pen value.
+    /// </summary>
+    SavePen,
+    /// <summary>
+    /// Represents the save plus value.
+    /// </summary>
+    SavePlus,
     /// <summary>
     /// Represents the scale value.
     /// </summary>
@@ -5858,13 +5902,29 @@ public enum LucideIcon
     /// </summary>
     Star,
     /// <summary>
+    /// Represents the star check value.
+    /// </summary>
+    StarCheck,
+    /// <summary>
     /// Represents the star half value.
     /// </summary>
     StarHalf,
     /// <summary>
+    /// Represents the star minus value.
+    /// </summary>
+    StarMinus,
+    /// <summary>
     /// Represents the star off value.
     /// </summary>
     StarOff,
+    /// <summary>
+    /// Represents the star plus value.
+    /// </summary>
+    StarPlus,
+    /// <summary>
+    /// Represents the star x value.
+    /// </summary>
+    StarX,
     /// <summary>
     /// Represents the step back value.
     /// </summary>
@@ -5933,6 +5993,10 @@ public enum LucideIcon
     /// Represents the subscript value.
     /// </summary>
     Subscript,
+    /// <summary>
+    /// Represents the summary value.
+    /// </summary>
+    Summary,
     /// <summary>
     /// Represents the sun value.
     /// </summary>
@@ -6037,6 +6101,14 @@ public enum LucideIcon
     /// Represents the tag value.
     /// </summary>
     Tag,
+    /// <summary>
+    /// Represents the tag plus value.
+    /// </summary>
+    TagPlus,
+    /// <summary>
+    /// Represents the tag x value.
+    /// </summary>
+    TagX,
     /// <summary>
     /// Represents the tags value.
     /// </summary>
@@ -6482,6 +6554,10 @@ public enum LucideIcon
     /// </summary>
     UserRound,
     /// <summary>
+    /// Represents the user round arrow left value.
+    /// </summary>
+    UserRoundArrowLeft,
+    /// <summary>
     /// Represents the user round check value.
     /// </summary>
     UserRoundCheck,
@@ -6789,6 +6865,10 @@ public enum LucideIcon
     /// Represents the wrench value.
     /// </summary>
     Wrench,
+    /// <summary>
+    /// Represents the wrench off value.
+    /// </summary>
+    WrenchOff,
     /// <summary>
     /// Represents the x value.
     /// </summary>
