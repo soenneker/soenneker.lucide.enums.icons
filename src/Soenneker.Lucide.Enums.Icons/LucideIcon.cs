@@ -4582,6 +4582,10 @@ public enum LucideIcon
     /// </summary>
     PencilRuler,
     /// <summary>
+    /// Represents the pencil sparkles value.
+    /// </summary>
+    PencilSparkles,
+    /// <summary>
     /// Represents the pentagon value.
     /// </summary>
     Pentagon,
