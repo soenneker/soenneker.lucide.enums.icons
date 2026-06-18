@@ -762,6 +762,10 @@ public enum LucideIcon
     /// </summary>
     Bone,
     /// <summary>
+    /// Represents the bone fracture value.
+    /// </summary>
+    BoneFracture,
+    /// <summary>
     /// Represents the book value.
     /// </summary>
     Book,
@@ -2066,13 +2070,37 @@ public enum LucideIcon
     /// </summary>
     Database,
     /// <summary>
+    /// Represents the database arrow down value.
+    /// </summary>
+    DatabaseArrowDown,
+    /// <summary>
+    /// Represents the database arrow up value.
+    /// </summary>
+    DatabaseArrowUp,
+    /// <summary>
     /// Represents the database backup value.
     /// </summary>
     DatabaseBackup,
     /// <summary>
+    /// Represents the database check value.
+    /// </summary>
+    DatabaseCheck,
+    /// <summary>
+    /// Represents the database minus value.
+    /// </summary>
+    DatabaseMinus,
+    /// <summary>
+    /// Represents the database plus value.
+    /// </summary>
+    DatabasePlus,
+    /// <summary>
     /// Represents the database search value.
     /// </summary>
     DatabaseSearch,
+    /// <summary>
+    /// Represents the database x value.
+    /// </summary>
+    DatabaseX,
     /// <summary>
     /// Represents the database zap value.
     /// </summary>
