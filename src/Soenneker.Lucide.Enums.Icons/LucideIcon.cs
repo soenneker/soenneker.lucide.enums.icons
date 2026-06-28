@@ -4626,6 +4626,10 @@ public enum LucideIcon
     /// </summary>
     PersonStanding,
     /// <summary>
+    /// Represents the phi value.
+    /// </summary>
+    Phi,
+    /// <summary>
     /// Represents the philippine peso value.
     /// </summary>
     PhilippinePeso,
