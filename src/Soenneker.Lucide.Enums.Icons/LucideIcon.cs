@@ -4546,6 +4546,10 @@ public enum LucideIcon
     /// </summary>
     PanelsTopLeft,
     /// <summary>
+    /// Represents the paper bag value.
+    /// </summary>
+    PaperBag,
+    /// <summary>
     /// Represents the paperclip value.
     /// </summary>
     Paperclip,
