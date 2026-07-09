@@ -1526,6 +1526,10 @@ public enum LucideIcon
     /// </summary>
     CircleEqual,
     /// <summary>
+    /// Represents the circle euro sign value.
+    /// </summary>
+    CircleEuroSign,
+    /// <summary>
     /// Represents the circle fading arrow up value.
     /// </summary>
     CircleFadingArrowUp,
@@ -5309,6 +5313,10 @@ public enum LucideIcon
     /// Represents the server off value.
     /// </summary>
     ServerOff,
+    /// <summary>
+    /// Represents the server plus value.
+    /// </summary>
+    ServerPlus,
     /// <summary>
     /// Represents the settings value.
     /// </summary>
