@@ -1526,9 +1526,9 @@ public enum LucideIcon
     /// </summary>
     CircleEqual,
     /// <summary>
-    /// Represents the circle euro sign value.
+    /// Represents the circle euro value.
     /// </summary>
-    CircleEuroSign,
+    CircleEuro,
     /// <summary>
     /// Represents the circle fading arrow up value.
     /// </summary>
