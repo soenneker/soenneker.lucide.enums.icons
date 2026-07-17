@@ -5190,6 +5190,10 @@ public enum LucideIcon
     /// </summary>
     ScanBarcode,
     /// <summary>
+    /// Represents the scan box value.
+    /// </summary>
+    ScanBox,
+    /// <summary>
     /// Represents the scan eye value.
     /// </summary>
     ScanEye,
