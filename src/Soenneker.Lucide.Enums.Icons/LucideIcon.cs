@@ -3290,10 +3290,6 @@ public enum LucideIcon
     /// </summary>
     Highlighter,
     /// <summary>
-    /// Represents the history value.
-    /// </summary>
-    History,
-    /// <summary>
     /// Represents the hop value.
     /// </summary>
     Hop,
@@ -5066,6 +5062,10 @@ public enum LucideIcon
     /// </summary>
     RotateCcw,
     /// <summary>
+    /// Represents the rotate ccw clock value.
+    /// </summary>
+    RotateCcwClock,
+    /// <summary>
     /// Represents the rotate ccw key value.
     /// </summary>
     RotateCcwKey,
@@ -5077,6 +5077,10 @@ public enum LucideIcon
     /// Represents the rotate cw value.
     /// </summary>
     RotateCw,
+    /// <summary>
+    /// Represents the rotate cw fading clock value.
+    /// </summary>
+    RotateCwFadingClock,
     /// <summary>
     /// Represents the rotate cw square value.
     /// </summary>
@@ -5217,6 +5221,10 @@ public enum LucideIcon
     /// Represents the scan search value.
     /// </summary>
     ScanSearch,
+    /// <summary>
+    /// Represents the scan square value.
+    /// </summary>
+    ScanSquare,
     /// <summary>
     /// Represents the scan text value.
     /// </summary>
@@ -5385,6 +5393,10 @@ public enum LucideIcon
     /// Represents the shield half value.
     /// </summary>
     ShieldHalf,
+    /// <summary>
+    /// Represents the shield keyhole value.
+    /// </summary>
+    ShieldKeyhole,
     /// <summary>
     /// Represents the shield minus value.
     /// </summary>
@@ -5817,6 +5829,10 @@ public enum LucideIcon
     /// Represents the square mouse pointer value.
     /// </summary>
     SquareMousePointer,
+    /// <summary>
+    /// Represents the square off value.
+    /// </summary>
+    SquareOff,
     /// <summary>
     /// Represents the square parking value.
     /// </summary>
@@ -6645,6 +6661,10 @@ public enum LucideIcon
     /// Represents the user search value.
     /// </summary>
     UserSearch,
+    /// <summary>
+    /// Represents the user shield value.
+    /// </summary>
+    UserShield,
     /// <summary>
     /// Represents the user star value.
     /// </summary>
