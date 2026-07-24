@@ -4186,6 +4186,10 @@ public enum LucideIcon
     /// </summary>
     MoonStar,
     /// <summary>
+    /// Represents the mosque value.
+    /// </summary>
+    Mosque,
+    /// <summary>
     /// Represents the motorbike value.
     /// </summary>
     Motorbike,
