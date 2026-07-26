@@ -3538,6 +3538,10 @@ public enum LucideIcon
     /// </summary>
     LayoutDashboard,
     /// <summary>
+    /// Represents the layout freeform value.
+    /// </summary>
+    LayoutFreeform,
+    /// <summary>
     /// Represents the layout grid value.
     /// </summary>
     LayoutGrid,
@@ -4070,9 +4074,17 @@ public enum LucideIcon
     /// </summary>
     Mic,
     /// <summary>
+    /// Represents the mic audio lines value.
+    /// </summary>
+    MicAudioLines,
+    /// <summary>
     /// Represents the mic off value.
     /// </summary>
     MicOff,
+    /// <summary>
+    /// Represents the mic signal value.
+    /// </summary>
+    MicSignal,
     /// <summary>
     /// Represents the mic vocal value.
     /// </summary>
@@ -4769,10 +4781,6 @@ public enum LucideIcon
     /// Represents the pocket knife value.
     /// </summary>
     PocketKnife,
-    /// <summary>
-    /// Represents the podcast value.
-    /// </summary>
-    Podcast,
     /// <summary>
     /// Represents the podium value.
     /// </summary>
