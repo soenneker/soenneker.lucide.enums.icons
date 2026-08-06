@@ -174,14 +174,6 @@ public enum LucideIcon
     /// </summary>
     Anchor,
     /// <summary>
-    /// Represents the angry value.
-    /// </summary>
-    Angry,
-    /// <summary>
-    /// Represents the annoyed value.
-    /// </summary>
-    Annoyed,
-    /// <summary>
     /// Represents the antenna value.
     /// </summary>
     Antenna,
@@ -413,6 +405,10 @@ public enum LucideIcon
     /// Represents the audio lines value.
     /// </summary>
     AudioLines,
+    /// <summary>
+    /// Represents the audio lines x value.
+    /// </summary>
+    AudioLinesX,
     /// <summary>
     /// Represents the audio waveform value.
     /// </summary>
@@ -2378,6 +2374,34 @@ public enum LucideIcon
     /// </summary>
     EyeOff,
     /// <summary>
+    /// Represents the face angry value.
+    /// </summary>
+    FaceAngry,
+    /// <summary>
+    /// Represents the face expressionless value.
+    /// </summary>
+    FaceExpressionless,
+    /// <summary>
+    /// Represents the face grinning value.
+    /// </summary>
+    FaceGrinning,
+    /// <summary>
+    /// Represents the face neutral value.
+    /// </summary>
+    FaceNeutral,
+    /// <summary>
+    /// Represents the face slightly frowning value.
+    /// </summary>
+    FaceSlightlyFrowning,
+    /// <summary>
+    /// Represents the face slightly smiling value.
+    /// </summary>
+    FaceSlightlySmiling,
+    /// <summary>
+    /// Represents the face slightly smiling plus value.
+    /// </summary>
+    FaceSlightlySmilingPlus,
+    /// <summary>
     /// Represents the factory value.
     /// </summary>
     Factory,
@@ -2877,10 +2901,6 @@ public enum LucideIcon
     /// Represents the frame value.
     /// </summary>
     Frame,
-    /// <summary>
-    /// Represents the frown value.
-    /// </summary>
-    Frown,
     /// <summary>
     /// Represents the fuel value.
     /// </summary>
@@ -3514,9 +3534,13 @@ public enum LucideIcon
     /// </summary>
     LassoSelect,
     /// <summary>
-    /// Represents the laugh value.
+    /// Represents the layer arrow down value.
     /// </summary>
-    Laugh,
+    LayerArrowDown,
+    /// <summary>
+    /// Represents the layer arrow up value.
+    /// </summary>
+    LayerArrowUp,
     /// <summary>
     /// Represents the layers value.
     /// </summary>
@@ -3525,6 +3549,14 @@ public enum LucideIcon
     /// Represents the layers2 value.
     /// </summary>
     Layers2,
+    /// <summary>
+    /// Represents the layers arrow down value.
+    /// </summary>
+    LayersArrowDown,
+    /// <summary>
+    /// Represents the layers arrow up value.
+    /// </summary>
+    LayersArrowUp,
     /// <summary>
     /// Represents the layers minus value.
     /// </summary>
@@ -3929,10 +3961,6 @@ public enum LucideIcon
     /// Represents the megaphone off value.
     /// </summary>
     MegaphoneOff,
-    /// <summary>
-    /// Represents the meh value.
-    /// </summary>
-    Meh,
     /// <summary>
     /// Represents the memory stick value.
     /// </summary>
@@ -5565,14 +5593,6 @@ public enum LucideIcon
     /// Represents the smartphone nfc value.
     /// </summary>
     SmartphoneNfc,
-    /// <summary>
-    /// Represents the smile value.
-    /// </summary>
-    Smile,
-    /// <summary>
-    /// Represents the smile plus value.
-    /// </summary>
-    SmilePlus,
     /// <summary>
     /// Represents the snail value.
     /// </summary>
