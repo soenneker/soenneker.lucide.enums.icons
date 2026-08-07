@@ -174,6 +174,10 @@ public enum LucideIcon
     /// </summary>
     Anchor,
     /// <summary>
+    /// Represents the angle value.
+    /// </summary>
+    Angle,
+    /// <summary>
     /// Represents the antenna value.
     /// </summary>
     Antenna,
@@ -977,6 +981,14 @@ public enum LucideIcon
     /// Represents the broccoli value.
     /// </summary>
     Broccoli,
+    /// <summary>
+    /// Represents the broom value.
+    /// </summary>
+    Broom,
+    /// <summary>
+    /// Represents the broom sparkles value.
+    /// </summary>
+    BroomSparkles,
     /// <summary>
     /// Represents the brush value.
     /// </summary>
@@ -3822,6 +3834,10 @@ public enum LucideIcon
     /// </summary>
     Mail,
     /// <summary>
+    /// Represents the mail badge value.
+    /// </summary>
+    MailBadge,
+    /// <summary>
     /// Represents the mail check value.
     /// </summary>
     MailCheck,
@@ -5437,6 +5453,10 @@ public enum LucideIcon
     /// Represents the shield keyhole value.
     /// </summary>
     ShieldKeyhole,
+    /// <summary>
+    /// Represents the shield lock value.
+    /// </summary>
+    ShieldLock,
     /// <summary>
     /// Represents the shield minus value.
     /// </summary>
