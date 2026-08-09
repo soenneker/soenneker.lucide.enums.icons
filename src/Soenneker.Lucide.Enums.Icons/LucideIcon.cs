@@ -1178,6 +1178,10 @@ public enum LucideIcon
     /// </summary>
     Car,
     /// <summary>
+    /// Represents the car battery value.
+    /// </summary>
+    CarBattery,
+    /// <summary>
     /// Represents the car front value.
     /// </summary>
     CarFront,
@@ -2321,6 +2325,10 @@ public enum LucideIcon
     /// Represents the egg off value.
     /// </summary>
     EggOff,
+    /// <summary>
+    /// Represents the eject value.
+    /// </summary>
+    Eject,
     /// <summary>
     /// Represents the ellipse value.
     /// </summary>
