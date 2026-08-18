@@ -410,6 +410,10 @@ public enum LucideIcon
     /// </summary>
     AudioLines,
     /// <summary>
+    /// Represents the audio lines off value.
+    /// </summary>
+    AudioLinesOff,
+    /// <summary>
     /// Represents the audio lines x value.
     /// </summary>
     AudioLinesX,
@@ -3702,6 +3706,10 @@ public enum LucideIcon
     /// </summary>
     ListChevronsUpDown,
     /// <summary>
+    /// Represents the list clock value.
+    /// </summary>
+    ListClock,
+    /// <summary>
     /// Represents the list collapse value.
     /// </summary>
     ListCollapse,
@@ -4249,6 +4257,14 @@ public enum LucideIcon
     /// Represents the moon star value.
     /// </summary>
     MoonStar,
+    /// <summary>
+    /// Represents the mop value.
+    /// </summary>
+    Mop,
+    /// <summary>
+    /// Represents the mop sparkles value.
+    /// </summary>
+    MopSparkles,
     /// <summary>
     /// Represents the mosque value.
     /// </summary>
@@ -5850,6 +5866,10 @@ public enum LucideIcon
     /// </summary>
     SquareDashedTopSolid,
     /// <summary>
+    /// Represents the square dimensions value.
+    /// </summary>
+    SquareDimensions,
+    /// <summary>
     /// Represents the square divide value.
     /// </summary>
     SquareDivide,
@@ -5981,6 +6001,10 @@ public enum LucideIcon
     /// Represents the square terminal value.
     /// </summary>
     SquareTerminal,
+    /// <summary>
+    /// Represents the square text value.
+    /// </summary>
+    SquareText,
     /// <summary>
     /// Represents the square user value.
     /// </summary>
@@ -6645,6 +6669,10 @@ public enum LucideIcon
     /// Represents the usb value.
     /// </summary>
     Usb,
+    /// <summary>
+    /// Represents the usb c port value.
+    /// </summary>
+    UsbCPort,
     /// <summary>
     /// Represents the user value.
     /// </summary>
