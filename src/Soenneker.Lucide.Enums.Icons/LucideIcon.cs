@@ -4162,6 +4162,10 @@ public enum LucideIcon
     /// </summary>
     Microwave,
     /// <summary>
+    /// Represents the midi port value.
+    /// </summary>
+    MidiPort,
+    /// <summary>
     /// Represents the milestone value.
     /// </summary>
     Milestone,
