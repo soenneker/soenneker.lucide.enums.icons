@@ -2946,6 +2946,10 @@ public enum LucideIcon
     /// </summary>
     FunnelX,
     /// <summary>
+    /// Represents the galaxy value.
+    /// </summary>
+    Galaxy,
+    /// <summary>
     /// Represents the gallery horizontal value.
     /// </summary>
     GalleryHorizontal,
@@ -3857,6 +3861,10 @@ public enum LucideIcon
     /// Represents the mail check value.
     /// </summary>
     MailCheck,
+    /// <summary>
+    /// Represents the mail clock value.
+    /// </summary>
+    MailClock,
     /// <summary>
     /// Represents the mail minus value.
     /// </summary>
@@ -5514,6 +5522,10 @@ public enum LucideIcon
     /// </summary>
     Ship,
     /// <summary>
+    /// Represents the ship cargo value.
+    /// </summary>
+    ShipCargo,
+    /// <summary>
     /// Represents the ship wheel value.
     /// </summary>
     ShipWheel,
@@ -6497,6 +6509,10 @@ public enum LucideIcon
     /// Represents the traffic cone value.
     /// </summary>
     TrafficCone,
+    /// <summary>
+    /// Represents the trailer value.
+    /// </summary>
+    Trailer,
     /// <summary>
     /// Represents the train front value.
     /// </summary>
