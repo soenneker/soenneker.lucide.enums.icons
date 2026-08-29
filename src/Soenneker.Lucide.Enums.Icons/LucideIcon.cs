@@ -2046,6 +2046,22 @@ public enum LucideIcon
     /// </summary>
     CreditCard,
     /// <summary>
+    /// Represents the credit card check value.
+    /// </summary>
+    CreditCardCheck,
+    /// <summary>
+    /// Represents the credit card minus value.
+    /// </summary>
+    CreditCardMinus,
+    /// <summary>
+    /// Represents the credit card plus value.
+    /// </summary>
+    CreditCardPlus,
+    /// <summary>
+    /// Represents the credit card x value.
+    /// </summary>
+    CreditCardX,
+    /// <summary>
     /// Represents the croissant value.
     /// </summary>
     Croissant,
