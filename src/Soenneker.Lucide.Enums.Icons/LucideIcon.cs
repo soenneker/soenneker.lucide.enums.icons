@@ -4030,6 +4030,10 @@ public enum LucideIcon
     /// </summary>
     MessageCircleDashed,
     /// <summary>
+    /// Represents the message circle dashed check value.
+    /// </summary>
+    MessageCircleDashedCheck,
+    /// <summary>
     /// Represents the message circle heart value.
     /// </summary>
     MessageCircleHeart,
@@ -4842,6 +4846,18 @@ public enum LucideIcon
     /// </summary>
     PlayOff,
     /// <summary>
+    /// Represents the playing card value.
+    /// </summary>
+    PlayingCard,
+    /// <summary>
+    /// Represents the playing cards value.
+    /// </summary>
+    PlayingCards,
+    /// <summary>
+    /// Represents the playing cards fan value.
+    /// </summary>
+    PlayingCardsFan,
+    /// <summary>
     /// Represents the plug value.
     /// </summary>
     Plug,
@@ -5129,6 +5145,14 @@ public enum LucideIcon
     /// Represents the road value.
     /// </summary>
     Road,
+    /// <summary>
+    /// Represents the robot arm value.
+    /// </summary>
+    RobotArm,
+    /// <summary>
+    /// Represents the robot vacuum value.
+    /// </summary>
+    RobotVacuum,
     /// <summary>
     /// Represents the rocket value.
     /// </summary>
