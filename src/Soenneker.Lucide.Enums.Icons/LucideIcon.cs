@@ -6854,6 +6854,10 @@ public enum LucideIcon
     /// </summary>
     Vault,
     /// <summary>
+    /// Represents the vector polygon value.
+    /// </summary>
+    VectorPolygon,
+    /// <summary>
     /// Represents the vector square value.
     /// </summary>
     VectorSquare,
