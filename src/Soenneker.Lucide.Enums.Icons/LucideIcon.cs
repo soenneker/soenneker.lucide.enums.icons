@@ -962,6 +962,10 @@ public enum LucideIcon
     /// </summary>
     BrickWallShield,
     /// <summary>
+    /// Represents the bridge value.
+    /// </summary>
+    Bridge,
+    /// <summary>
     /// Represents the briefcase value.
     /// </summary>
     Briefcase,
@@ -1149,6 +1153,10 @@ public enum LucideIcon
     /// Represents the camera off value.
     /// </summary>
     CameraOff,
+    /// <summary>
+    /// Represents the can value.
+    /// </summary>
+    Can,
     /// <summary>
     /// Represents the candy value.
     /// </summary>
@@ -3890,6 +3898,10 @@ public enum LucideIcon
     /// </summary>
     MailOpen,
     /// <summary>
+    /// Represents the mail pen value.
+    /// </summary>
+    MailPen,
+    /// <summary>
     /// Represents the mail plus value.
     /// </summary>
     MailPlus,
@@ -5586,6 +5598,14 @@ public enum LucideIcon
     /// </summary>
     ShoppingCart,
     /// <summary>
+    /// Represents the shopping cart minus value.
+    /// </summary>
+    ShoppingCartMinus,
+    /// <summary>
+    /// Represents the shopping cart plus value.
+    /// </summary>
+    ShoppingCartPlus,
+    /// <summary>
     /// Represents the shovel value.
     /// </summary>
     Shovel,
@@ -5601,6 +5621,10 @@ public enum LucideIcon
     /// Represents the shrimp value.
     /// </summary>
     Shrimp,
+    /// <summary>
+    /// Represents the shrimp off value.
+    /// </summary>
+    ShrimpOff,
     /// <summary>
     /// Represents the shrink value.
     /// </summary>
@@ -7025,6 +7049,10 @@ public enum LucideIcon
     /// Represents the wheat off value.
     /// </summary>
     WheatOff,
+    /// <summary>
+    /// Represents the whistle value.
+    /// </summary>
+    Whistle,
     /// <summary>
     /// Represents the whole word value.
     /// </summary>
