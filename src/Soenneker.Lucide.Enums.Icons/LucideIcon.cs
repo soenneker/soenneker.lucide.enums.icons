@@ -1158,6 +1158,10 @@ public enum LucideIcon
     /// </summary>
     Can,
     /// <summary>
+    /// Represents the can soda value.
+    /// </summary>
+    CanSoda,
+    /// <summary>
     /// Represents the candy value.
     /// </summary>
     Candy,
@@ -2066,6 +2070,10 @@ public enum LucideIcon
     /// </summary>
     CreditCardPlus,
     /// <summary>
+    /// Represents the credit card reader value.
+    /// </summary>
+    CreditCardReader,
+    /// <summary>
     /// Represents the credit card x value.
     /// </summary>
     CreditCardX,
@@ -2274,6 +2282,10 @@ public enum LucideIcon
     /// </summary>
     DoorOpen,
     /// <summary>
+    /// Represents the door stairwell value.
+    /// </summary>
+    DoorStairwell,
+    /// <summary>
     /// Represents the dot value.
     /// </summary>
     Dot,
@@ -2369,6 +2381,10 @@ public enum LucideIcon
     /// Represents the ellipsis vertical value.
     /// </summary>
     EllipsisVertical,
+    /// <summary>
+    /// Represents the engine value.
+    /// </summary>
+    Engine,
     /// <summary>
     /// Represents the equal value.
     /// </summary>
@@ -3021,6 +3037,14 @@ public enum LucideIcon
     /// Represents the georgian lari value.
     /// </summary>
     GeorgianLari,
+    /// <summary>
+    /// Represents the germ value.
+    /// </summary>
+    Germ,
+    /// <summary>
+    /// Represents the germ off value.
+    /// </summary>
+    GermOff,
     /// <summary>
     /// Represents the ghost value.
     /// </summary>
@@ -3689,6 +3713,10 @@ public enum LucideIcon
     /// Represents the lightbulb off value.
     /// </summary>
     LightbulbOff,
+    /// <summary>
+    /// Represents the lighthouse value.
+    /// </summary>
+    Lighthouse,
     /// <summary>
     /// Represents the line dot right horizontal value.
     /// </summary>
@@ -5962,6 +5990,10 @@ public enum LucideIcon
     /// </summary>
     SquareEqual,
     /// <summary>
+    /// Represents the square exclamation point value.
+    /// </summary>
+    SquareExclamationPoint,
+    /// <summary>
     /// Represents the square function value.
     /// </summary>
     SquareFunction,
@@ -6925,6 +6957,14 @@ public enum LucideIcon
     /// Represents the view value.
     /// </summary>
     View,
+    /// <summary>
+    /// Represents the virus value.
+    /// </summary>
+    Virus,
+    /// <summary>
+    /// Represents the virus off value.
+    /// </summary>
+    VirusOff,
     /// <summary>
     /// Represents the voicemail value.
     /// </summary>
