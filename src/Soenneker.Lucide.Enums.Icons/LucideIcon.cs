@@ -1530,6 +1530,10 @@ public enum LucideIcon
     /// </summary>
     CircleDashed,
     /// <summary>
+    /// Represents the circle dashed check value.
+    /// </summary>
+    CircleDashedCheck,
+    /// <summary>
     /// Represents the circle divide value.
     /// </summary>
     CircleDivide,
@@ -2266,6 +2270,10 @@ public enum LucideIcon
     /// </summary>
     DollarSign,
     /// <summary>
+    /// Represents the dome value.
+    /// </summary>
+    Dome,
+    /// <summary>
     /// Represents the donut value.
     /// </summary>
     Donut,
@@ -2393,6 +2401,10 @@ public enum LucideIcon
     /// Represents the equal approximately value.
     /// </summary>
     EqualApproximately,
+    /// <summary>
+    /// Represents the equal approximately not value.
+    /// </summary>
+    EqualApproximatelyNot,
     /// <summary>
     /// Represents the equal not value.
     /// </summary>
@@ -3021,6 +3033,14 @@ public enum LucideIcon
     /// Represents the gamepad directional value.
     /// </summary>
     GamepadDirectional,
+    /// <summary>
+    /// Represents the gap horizontal value.
+    /// </summary>
+    GapHorizontal,
+    /// <summary>
+    /// Represents the gap vertical value.
+    /// </summary>
+    GapVertical,
     /// <summary>
     /// Represents the gauge value.
     /// </summary>
@@ -6634,9 +6654,9 @@ public enum LucideIcon
     /// </summary>
     Trash,
     /// <summary>
-    /// Represents the trash2 value.
+    /// Represents the trash off value.
     /// </summary>
-    Trash2,
+    TrashOff,
     /// <summary>
     /// Represents the tree deciduous value.
     /// </summary>
