@@ -6518,6 +6518,10 @@ public enum LucideIcon
     /// </summary>
     ThumbsUp,
     /// <summary>
+    /// Represents the tic tac toe value.
+    /// </summary>
+    TicTacToe,
+    /// <summary>
     /// Represents the ticket value.
     /// </summary>
     Ticket,
@@ -6822,6 +6826,10 @@ public enum LucideIcon
     /// </summary>
     UserCog,
     /// <summary>
+    /// Represents the user group value.
+    /// </summary>
+    UserGroup,
+    /// <summary>
     /// Represents the user key value.
     /// </summary>
     UserKey,
@@ -6857,6 +6865,10 @@ public enum LucideIcon
     /// Represents the user round cog value.
     /// </summary>
     UserRoundCog,
+    /// <summary>
+    /// Represents the user round group value.
+    /// </summary>
+    UserRoundGroup,
     /// <summary>
     /// Represents the user round key value.
     /// </summary>
