@@ -1218,6 +1218,14 @@ public enum LucideIcon
     /// </summary>
     Carrot,
     /// <summary>
+    /// Represents the carton value.
+    /// </summary>
+    Carton,
+    /// <summary>
+    /// Represents the carton off value.
+    /// </summary>
+    CartonOff,
+    /// <summary>
     /// Represents the case lower value.
     /// </summary>
     CaseLower,
