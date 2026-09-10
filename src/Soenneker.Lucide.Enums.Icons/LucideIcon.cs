@@ -62,10 +62,6 @@ public enum LucideIcon
     /// </summary>
     AlarmSmoke,
     /// <summary>
-    /// Represents the album value.
-    /// </summary>
-    Album,
-    /// <summary>
     /// Represents the align center horizontal value.
     /// </summary>
     AlignCenterHorizontal,
@@ -786,6 +782,10 @@ public enum LucideIcon
     /// </summary>
     BookAudio,
     /// <summary>
+    /// Represents the book bookmark value.
+    /// </summary>
+    BookBookmark,
+    /// <summary>
     /// Represents the book check value.
     /// </summary>
     BookCheck,
@@ -821,10 +821,6 @@ public enum LucideIcon
     /// Represents the book lock value.
     /// </summary>
     BookLock,
-    /// <summary>
-    /// Represents the book marked value.
-    /// </summary>
-    BookMarked,
     /// <summary>
     /// Represents the book minus value.
     /// </summary>
@@ -1026,9 +1022,13 @@ public enum LucideIcon
     /// </summary>
     Building,
     /// <summary>
-    /// Represents the building2 value.
+    /// Represents the building complex value.
     /// </summary>
-    Building2,
+    BuildingComplex,
+    /// <summary>
+    /// Represents the building complex plus value.
+    /// </summary>
+    BuildingComplexPlus,
     /// <summary>
     /// Represents the bus value.
     /// </summary>
@@ -1081,6 +1081,10 @@ public enum LucideIcon
     /// Represents the calendar check2 value.
     /// </summary>
     CalendarCheck2,
+    /// <summary>
+    /// Represents the calendar chevrons right value.
+    /// </summary>
+    CalendarChevronsRight,
     /// <summary>
     /// Represents the calendar clock value.
     /// </summary>
@@ -2810,14 +2814,6 @@ public enum LucideIcon
     /// </summary>
     FlaskRound,
     /// <summary>
-    /// Represents the flip horizontal2 value.
-    /// </summary>
-    FlipHorizontal2,
-    /// <summary>
-    /// Represents the flip vertical2 value.
-    /// </summary>
-    FlipVertical2,
-    /// <summary>
     /// Represents the flower value.
     /// </summary>
     Flower,
@@ -3434,6 +3430,10 @@ public enum LucideIcon
     /// </summary>
     Hourglass,
     /// <summary>
+    /// Represents the hourglass cog value.
+    /// </summary>
+    HourglassCog,
+    /// <summary>
     /// Represents the house value.
     /// </summary>
     House,
@@ -3453,6 +3453,10 @@ public enum LucideIcon
     /// Represents the house wifi value.
     /// </summary>
     HouseWifi,
+    /// <summary>
+    /// Represents the houses value.
+    /// </summary>
+    Houses,
     /// <summary>
     /// Represents the ice cream bowl value.
     /// </summary>
@@ -3541,6 +3545,10 @@ public enum LucideIcon
     /// Represents the iteration cw value.
     /// </summary>
     IterationCw,
+    /// <summary>
+    /// Represents the iv bag value.
+    /// </summary>
+    IvBag,
     /// <summary>
     /// Represents the japanese yen value.
     /// </summary>
@@ -3669,6 +3677,14 @@ public enum LucideIcon
     /// Represents the layers plus value.
     /// </summary>
     LayersPlus,
+    /// <summary>
+    /// Represents the layout arrow down value.
+    /// </summary>
+    LayoutArrowDown,
+    /// <summary>
+    /// Represents the layout arrow right value.
+    /// </summary>
+    LayoutArrowRight,
     /// <summary>
     /// Represents the layout dashboard value.
     /// </summary>
@@ -4218,6 +4234,10 @@ public enum LucideIcon
     /// </summary>
     MessageSquareX,
     /// <summary>
+    /// Represents the messages circle value.
+    /// </summary>
+    MessagesCircle,
+    /// <summary>
     /// Represents the messages square value.
     /// </summary>
     MessagesSquare,
@@ -4418,6 +4438,14 @@ public enum LucideIcon
     /// </summary>
     MouseRight,
     /// <summary>
+    /// Represents the mouth value.
+    /// </summary>
+    Mouth,
+    /// <summary>
+    /// Represents the mouth off value.
+    /// </summary>
+    MouthOff,
+    /// <summary>
     /// Represents the move value.
     /// </summary>
     Move,
@@ -4525,6 +4553,10 @@ public enum LucideIcon
     /// Represents the notebook value.
     /// </summary>
     Notebook,
+    /// <summary>
+    /// Represents the notebook dot value.
+    /// </summary>
+    NotebookDot,
     /// <summary>
     /// Represents the notebook pen value.
     /// </summary>
@@ -4746,6 +4778,10 @@ public enum LucideIcon
     /// </summary>
     Parentheses,
     /// <summary>
+    /// Represents the park value.
+    /// </summary>
+    Park,
+    /// <summary>
     /// Represents the parking meter value.
     /// </summary>
     ParkingMeter,
@@ -4921,6 +4957,10 @@ public enum LucideIcon
     /// Represents the plane takeoff value.
     /// </summary>
     PlaneTakeoff,
+    /// <summary>
+    /// Represents the plant pot value.
+    /// </summary>
+    PlantPot,
     /// <summary>
     /// Represents the play value.
     /// </summary>
@@ -5930,6 +5970,10 @@ public enum LucideIcon
     /// </summary>
     SquareAsterisk,
     /// <summary>
+    /// Represents the square bookmark value.
+    /// </summary>
+    SquareBookmark,
+    /// <summary>
     /// Represents the square bottom dashed scissors value.
     /// </summary>
     SquareBottomDashedScissors,
@@ -6602,6 +6646,14 @@ public enum LucideIcon
     /// </summary>
     Toolbox,
     /// <summary>
+    /// Represents the toothbrush value.
+    /// </summary>
+    Toothbrush,
+    /// <summary>
+    /// Represents the toothbrush sparkles value.
+    /// </summary>
+    ToothbrushSparkles,
+    /// <summary>
     /// Represents the tornado value.
     /// </summary>
     Tornado,
@@ -6713,6 +6765,14 @@ public enum LucideIcon
     /// Represents the triangle right value.
     /// </summary>
     TriangleRight,
+    /// <summary>
+    /// Represents the triangles centerline dashed horizontal value.
+    /// </summary>
+    TrianglesCenterlineDashedHorizontal,
+    /// <summary>
+    /// Represents the triangles centerline dashed vertical value.
+    /// </summary>
+    TrianglesCenterlineDashedVertical,
     /// <summary>
     /// Represents the trophy value.
     /// </summary>
