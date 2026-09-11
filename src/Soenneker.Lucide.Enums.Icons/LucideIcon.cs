@@ -1678,6 +1678,18 @@ public enum LucideIcon
     /// </summary>
     Clapperboard,
     /// <summary>
+    /// Represents the clef alto value.
+    /// </summary>
+    ClefAlto,
+    /// <summary>
+    /// Represents the clef bass value.
+    /// </summary>
+    ClefBass,
+    /// <summary>
+    /// Represents the clef treble value.
+    /// </summary>
+    ClefTreble,
+    /// <summary>
     /// Represents the clipboard value.
     /// </summary>
     Clipboard,
@@ -3161,6 +3173,10 @@ public enum LucideIcon
     /// Represents the globe check value.
     /// </summary>
     GlobeCheck,
+    /// <summary>
+    /// Represents the globe code value.
+    /// </summary>
+    GlobeCode,
     /// <summary>
     /// Represents the globe lock value.
     /// </summary>
