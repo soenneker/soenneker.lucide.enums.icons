@@ -2134,6 +2134,10 @@ public enum LucideIcon
     /// </summary>
     CupSoda,
     /// <summary>
+    /// Represents the cupcake value.
+    /// </summary>
+    Cupcake,
+    /// <summary>
     /// Represents the currency value.
     /// </summary>
     Currency,
@@ -2309,6 +2313,10 @@ public enum LucideIcon
     /// Represents the door closed locked value.
     /// </summary>
     DoorClosedLocked,
+    /// <summary>
+    /// Represents the door closed package value.
+    /// </summary>
+    DoorClosedPackage,
     /// <summary>
     /// Represents the door open value.
     /// </summary>
@@ -2513,6 +2521,10 @@ public enum LucideIcon
     /// Represents the fast forward value.
     /// </summary>
     FastForward,
+    /// <summary>
+    /// Represents the faucet value.
+    /// </summary>
+    Faucet,
     /// <summary>
     /// Represents the feather value.
     /// </summary>
@@ -3606,6 +3618,10 @@ public enum LucideIcon
     /// </summary>
     KeyboardOff,
     /// <summary>
+    /// Represents the lambda value.
+    /// </summary>
+    Lambda,
+    /// <summary>
     /// Represents the lamp value.
     /// </summary>
     Lamp,
@@ -4362,6 +4378,10 @@ public enum LucideIcon
     /// </summary>
     MonitorPause,
     /// <summary>
+    /// Represents the monitor pc value.
+    /// </summary>
+    MonitorPc,
+    /// <summary>
     /// Represents the monitor play value.
     /// </summary>
     MonitorPlay,
@@ -4549,6 +4569,10 @@ public enum LucideIcon
     /// Represents the navigation off value.
     /// </summary>
     NavigationOff,
+    /// <summary>
+    /// Represents the nepali rupee value.
+    /// </summary>
+    NepaliRupee,
     /// <summary>
     /// Represents the network value.
     /// </summary>
@@ -5334,6 +5358,10 @@ public enum LucideIcon
     /// </summary>
     RotateCw,
     /// <summary>
+    /// Represents the rotate cw clock value.
+    /// </summary>
+    RotateCwClock,
+    /// <summary>
     /// Represents the rotate cw fading clock value.
     /// </summary>
     RotateCwFadingClock,
@@ -6061,6 +6089,14 @@ public enum LucideIcon
     /// Represents the square dashed top solid value.
     /// </summary>
     SquareDashedTopSolid,
+    /// <summary>
+    /// Represents the square dashed x value.
+    /// </summary>
+    SquareDashedX,
+    /// <summary>
+    /// Represents the square dashed x corner value.
+    /// </summary>
+    SquareDashedXCorner,
     /// <summary>
     /// Represents the square dimensions value.
     /// </summary>
@@ -6801,6 +6837,10 @@ public enum LucideIcon
     /// Represents the truck electric value.
     /// </summary>
     TruckElectric,
+    /// <summary>
+    /// Represents the tube lotion value.
+    /// </summary>
+    TubeLotion,
     /// <summary>
     /// Represents the turkish lira value.
     /// </summary>
