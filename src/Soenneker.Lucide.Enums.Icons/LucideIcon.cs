@@ -978,6 +978,10 @@ public enum LucideIcon
     /// </summary>
     BriefcaseMedical,
     /// <summary>
+    /// Represents the briefcase plus value.
+    /// </summary>
+    BriefcasePlus,
+    /// <summary>
     /// Represents the bring to front value.
     /// </summary>
     BringToFront,
@@ -3794,9 +3798,21 @@ public enum LucideIcon
     /// </summary>
     Lighthouse,
     /// <summary>
+    /// Represents the line dot bottom vertical value.
+    /// </summary>
+    LineDotBottomVertical,
+    /// <summary>
+    /// Represents the line dot left horizontal value.
+    /// </summary>
+    LineDotLeftHorizontal,
+    /// <summary>
     /// Represents the line dot right horizontal value.
     /// </summary>
     LineDotRightHorizontal,
+    /// <summary>
+    /// Represents the line dot top vertical value.
+    /// </summary>
+    LineDotTopVertical,
     /// <summary>
     /// Represents the line squiggle value.
     /// </summary>
@@ -6082,6 +6098,10 @@ public enum LucideIcon
     /// </summary>
     SquareDashedMousePointer,
     /// <summary>
+    /// Represents the square dashed plus value.
+    /// </summary>
+    SquareDashedPlus,
+    /// <summary>
     /// Represents the square dashed text value.
     /// </summary>
     SquareDashedText,
@@ -6209,6 +6229,10 @@ public enum LucideIcon
     /// Represents the square slash value.
     /// </summary>
     SquareSlash,
+    /// <summary>
+    /// Represents the square sparkles value.
+    /// </summary>
+    SquareSparkles,
     /// <summary>
     /// Represents the square split horizontal value.
     /// </summary>
