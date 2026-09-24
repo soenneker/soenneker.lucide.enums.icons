@@ -530,6 +530,10 @@ public enum LucideIcon
     /// </summary>
     Bandage,
     /// <summary>
+    /// Represents the bangladeshi taka value.
+    /// </summary>
+    BangladeshiTaka,
+    /// <summary>
     /// Represents the banknote value.
     /// </summary>
     Banknote,
@@ -3470,6 +3474,10 @@ public enum LucideIcon
     /// </summary>
     House,
     /// <summary>
+    /// Represents the house cog value.
+    /// </summary>
+    HouseCog,
+    /// <summary>
     /// Represents the house heart value.
     /// </summary>
     HouseHeart,
@@ -3769,6 +3777,10 @@ public enum LucideIcon
     /// Represents the lens convex value.
     /// </summary>
     LensConvex,
+    /// <summary>
+    /// Represents the letters value.
+    /// </summary>
+    Letters,
     /// <summary>
     /// Represents the library value.
     /// </summary>
