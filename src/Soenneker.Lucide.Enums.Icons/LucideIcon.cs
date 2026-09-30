@@ -5110,6 +5110,10 @@ public enum LucideIcon
     /// </summary>
     Printer,
     /// <summary>
+    /// Represents the printer3 d value.
+    /// </summary>
+    Printer3D,
+    /// <summary>
     /// Represents the printer check value.
     /// </summary>
     PrinterCheck,
