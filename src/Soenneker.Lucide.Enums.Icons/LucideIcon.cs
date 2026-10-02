@@ -2318,6 +2318,10 @@ public enum LucideIcon
     /// </summary>
     DoorClosed,
     /// <summary>
+    /// Represents the door closed cog value.
+    /// </summary>
+    DoorClosedCog,
+    /// <summary>
     /// Represents the door closed locked value.
     /// </summary>
     DoorClosedLocked,
@@ -3741,6 +3745,10 @@ public enum LucideIcon
     /// Represents the layout grid value.
     /// </summary>
     LayoutGrid,
+    /// <summary>
+    /// Represents the layout grid circles value.
+    /// </summary>
+    LayoutGridCircles,
     /// <summary>
     /// Represents the layout list value.
     /// </summary>
@@ -5430,6 +5438,10 @@ public enum LucideIcon
     /// </summary>
     Rss,
     /// <summary>
+    /// Represents the rugby ball value.
+    /// </summary>
+    RugbyBall,
+    /// <summary>
     /// Represents the ruler value.
     /// </summary>
     Ruler,
@@ -6610,6 +6622,18 @@ public enum LucideIcon
     /// </summary>
     TextAlignJustify,
     /// <summary>
+    /// Represents the text align justify center value.
+    /// </summary>
+    TextAlignJustifyCenter,
+    /// <summary>
+    /// Represents the text align justify end value.
+    /// </summary>
+    TextAlignJustifyEnd,
+    /// <summary>
+    /// Represents the text align justify start value.
+    /// </summary>
+    TextAlignJustifyStart,
+    /// <summary>
     /// Represents the text align start value.
     /// </summary>
     TextAlignStart,
@@ -7333,6 +7357,10 @@ public enum LucideIcon
     /// Represents the wind arrow down value.
     /// </summary>
     WindArrowDown,
+    /// <summary>
+    /// Represents the wind arrow up value.
+    /// </summary>
+    WindArrowUp,
     /// <summary>
     /// Represents the wine value.
     /// </summary>
