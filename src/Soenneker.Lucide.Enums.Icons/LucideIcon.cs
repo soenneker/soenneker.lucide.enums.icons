@@ -214,6 +214,10 @@ public enum LucideIcon
     /// </summary>
     Armchair,
     /// <summary>
+    /// Represents the armenian dram value.
+    /// </summary>
+    ArmenianDram,
+    /// <summary>
     /// Represents the arrow big down value.
     /// </summary>
     ArrowBigDown,
@@ -3609,6 +3613,10 @@ public enum LucideIcon
     /// Represents the kayak value.
     /// </summary>
     Kayak,
+    /// <summary>
+    /// Represents the kazakh tenge value.
+    /// </summary>
+    KazakhTenge,
     /// <summary>
     /// Represents the key value.
     /// </summary>
