@@ -3270,6 +3270,10 @@ public enum LucideIcon
     /// </summary>
     GripVertical,
     /// <summary>
+    /// Represents the groceries value.
+    /// </summary>
+    Groceries,
+    /// <summary>
     /// Represents the group value.
     /// </summary>
     Group,
@@ -3453,6 +3457,10 @@ public enum LucideIcon
     /// Represents the highlighter value.
     /// </summary>
     Highlighter,
+    /// <summary>
+    /// Represents the hiking stick value.
+    /// </summary>
+    HikingStick,
     /// <summary>
     /// Represents the hop value.
     /// </summary>
@@ -5581,6 +5589,10 @@ public enum LucideIcon
     /// Represents the scooter value.
     /// </summary>
     Scooter,
+    /// <summary>
+    /// Represents the scratch blocks value.
+    /// </summary>
+    ScratchBlocks,
     /// <summary>
     /// Represents the screen share value.
     /// </summary>
