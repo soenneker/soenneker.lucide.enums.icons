@@ -3794,6 +3794,10 @@ public enum LucideIcon
     /// </summary>
     Lectern,
     /// <summary>
+    /// Represents the lens value.
+    /// </summary>
+    Lens,
+    /// <summary>
     /// Represents the lens concave value.
     /// </summary>
     LensConcave,
