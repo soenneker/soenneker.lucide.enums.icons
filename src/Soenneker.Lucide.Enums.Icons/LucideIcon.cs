@@ -3330,6 +3330,10 @@ public enum LucideIcon
     /// </summary>
     Handbag,
     /// <summary>
+    /// Represents the handle bottom right value.
+    /// </summary>
+    HandleBottomRight,
+    /// <summary>
     /// Represents the handshake value.
     /// </summary>
     Handshake,
@@ -4049,6 +4053,10 @@ public enum LucideIcon
     /// Represents the mail clock value.
     /// </summary>
     MailClock,
+    /// <summary>
+    /// Represents the mail dot value.
+    /// </summary>
+    MailDot,
     /// <summary>
     /// Represents the mail minus value.
     /// </summary>
@@ -4970,6 +4978,10 @@ public enum LucideIcon
     /// </summary>
     PhoneIncoming,
     /// <summary>
+    /// Represents the phone log value.
+    /// </summary>
+    PhoneLog,
+    /// <summary>
     /// Represents the phone missed value.
     /// </summary>
     PhoneMissed,
@@ -5606,6 +5618,10 @@ public enum LucideIcon
     /// </summary>
     ScreenShareOff,
     /// <summary>
+    /// Represents the screw value.
+    /// </summary>
+    Screw,
+    /// <summary>
     /// Represents the scroll value.
     /// </summary>
     Scroll,
@@ -5745,6 +5761,10 @@ public enum LucideIcon
     /// Represents the shield half value.
     /// </summary>
     ShieldHalf,
+    /// <summary>
+    /// Represents the shield house value.
+    /// </summary>
+    ShieldHouse,
     /// <summary>
     /// Represents the shield keyhole value.
     /// </summary>
@@ -7102,6 +7122,10 @@ public enum LucideIcon
     /// </summary>
     UserRoundSearch,
     /// <summary>
+    /// Represents the user round star value.
+    /// </summary>
+    UserRoundStar,
+    /// <summary>
     /// Represents the user round x value.
     /// </summary>
     UserRoundX,
@@ -7353,6 +7377,10 @@ public enum LucideIcon
     /// Represents the wifi high value.
     /// </summary>
     WifiHigh,
+    /// <summary>
+    /// Represents the wifi lock value.
+    /// </summary>
+    WifiLock,
     /// <summary>
     /// Represents the wifi low value.
     /// </summary>
