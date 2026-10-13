@@ -4254,6 +4254,10 @@ public enum LucideIcon
     /// </summary>
     MessageCircleReply,
     /// <summary>
+    /// Represents the message circle text value.
+    /// </summary>
+    MessageCircleText,
+    /// <summary>
     /// Represents the message circle warning value.
     /// </summary>
     MessageCircleWarning,
@@ -5689,6 +5693,10 @@ public enum LucideIcon
     /// Represents the server crash value.
     /// </summary>
     ServerCrash,
+    /// <summary>
+    /// Represents the server nas value.
+    /// </summary>
+    ServerNas,
     /// <summary>
     /// Represents the server off value.
     /// </summary>
