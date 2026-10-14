@@ -642,6 +642,10 @@ public enum LucideIcon
     /// </summary>
     BeerOff,
     /// <summary>
+    /// Represents the belarusian ruble value.
+    /// </summary>
+    BelarusianRuble,
+    /// <summary>
     /// Represents the bell value.
     /// </summary>
     Bell,
@@ -1093,6 +1097,10 @@ public enum LucideIcon
     /// Represents the calendar check2 value.
     /// </summary>
     CalendarCheck2,
+    /// <summary>
+    /// Represents the calendar chevrons left value.
+    /// </summary>
+    CalendarChevronsLeft,
     /// <summary>
     /// Represents the calendar chevrons right value.
     /// </summary>
@@ -1589,6 +1597,10 @@ public enum LucideIcon
     /// Represents the circle fading arrow up value.
     /// </summary>
     CircleFadingArrowUp,
+    /// <summary>
+    /// Represents the circle fading play value.
+    /// </summary>
+    CircleFadingPlay,
     /// <summary>
     /// Represents the circle fading plus value.
     /// </summary>
@@ -2089,6 +2101,10 @@ public enum LucideIcon
     /// Represents the cpu value.
     /// </summary>
     Cpu,
+    /// <summary>
+    /// Represents the cpu ai value.
+    /// </summary>
+    CpuAi,
     /// <summary>
     /// Represents the creative commons value.
     /// </summary>
@@ -2994,6 +3010,14 @@ public enum LucideIcon
     /// </summary>
     FolderUp,
     /// <summary>
+    /// Represents the folder user value.
+    /// </summary>
+    FolderUser,
+    /// <summary>
+    /// Represents the folder users value.
+    /// </summary>
+    FolderUsers,
+    /// <summary>
     /// Represents the folder x value.
     /// </summary>
     FolderX,
@@ -3234,6 +3258,10 @@ public enum LucideIcon
     /// </summary>
     Grape,
     /// <summary>
+    /// Represents the graph star value.
+    /// </summary>
+    GraphStar,
+    /// <summary>
     /// Represents the grid2 x2 value.
     /// </summary>
     Grid2X2,
@@ -3281,6 +3309,10 @@ public enum LucideIcon
     /// Represents the guitar value.
     /// </summary>
     Guitar,
+    /// <summary>
+    /// Represents the guitar electric value.
+    /// </summary>
+    GuitarElectric,
     /// <summary>
     /// Represents the ham value.
     /// </summary>
@@ -4953,6 +4985,10 @@ public enum LucideIcon
     /// Represents the percent value.
     /// </summary>
     Percent,
+    /// <summary>
+    /// Represents the perfume bottle value.
+    /// </summary>
+    PerfumeBottle,
     /// <summary>
     /// Represents the person standing value.
     /// </summary>
@@ -7158,9 +7194,17 @@ public enum LucideIcon
     /// </summary>
     Users,
     /// <summary>
+    /// Represents the users collaboration value.
+    /// </summary>
+    UsersCollaboration,
+    /// <summary>
     /// Represents the users round value.
     /// </summary>
     UsersRound,
+    /// <summary>
+    /// Represents the users round collaboration value.
+    /// </summary>
+    UsersRoundCollaboration,
     /// <summary>
     /// Represents the utensils value.
     /// </summary>
