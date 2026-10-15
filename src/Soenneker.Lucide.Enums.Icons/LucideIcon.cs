@@ -1286,6 +1286,10 @@ public enum LucideIcon
     /// </summary>
     CctvOff,
     /// <summary>
+    /// Represents the certificate value.
+    /// </summary>
+    Certificate,
+    /// <summary>
     /// Represents the chart area value.
     /// </summary>
     ChartArea,
@@ -2438,6 +2442,14 @@ public enum LucideIcon
     /// </summary>
     EggOff,
     /// <summary>
+    /// Represents the eighth note value.
+    /// </summary>
+    EighthNote,
+    /// <summary>
+    /// Represents the eighth notes value.
+    /// </summary>
+    EighthNotes,
+    /// <summary>
     /// Represents the eject value.
     /// </summary>
     Eject,
@@ -3313,6 +3325,10 @@ public enum LucideIcon
     /// Represents the guitar electric value.
     /// </summary>
     GuitarElectric,
+    /// <summary>
+    /// Represents the half note value.
+    /// </summary>
+    HalfNote,
     /// <summary>
     /// Represents the ham value.
     /// </summary>
@@ -4638,22 +4654,6 @@ public enum LucideIcon
     /// </summary>
     MoveVertical,
     /// <summary>
-    /// Represents the music value.
-    /// </summary>
-    Music,
-    /// <summary>
-    /// Represents the music2 value.
-    /// </summary>
-    Music2,
-    /// <summary>
-    /// Represents the music3 value.
-    /// </summary>
-    Music3,
-    /// <summary>
-    /// Represents the music4 value.
-    /// </summary>
-    Music4,
-    /// <summary>
     /// Represents the navigation value.
     /// </summary>
     Navigation,
@@ -5949,6 +5949,10 @@ public enum LucideIcon
     /// Represents the siren value.
     /// </summary>
     Siren,
+    /// <summary>
+    /// Represents the sixteenth notes value.
+    /// </summary>
+    SixteenthNotes,
     /// <summary>
     /// Represents the skip back value.
     /// </summary>
