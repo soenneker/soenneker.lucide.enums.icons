@@ -422,6 +422,10 @@ public enum LucideIcon
     /// </summary>
     AudioWaveform,
     /// <summary>
+    /// Represents the avocado value.
+    /// </summary>
+    Avocado,
+    /// <summary>
     /// Represents the award value.
     /// </summary>
     Award,
@@ -441,6 +445,10 @@ public enum LucideIcon
     /// Represents the backpack value.
     /// </summary>
     Backpack,
+    /// <summary>
+    /// Represents the bacon value.
+    /// </summary>
+    Bacon,
     /// <summary>
     /// Represents the badge value.
     /// </summary>
@@ -957,6 +965,10 @@ public enum LucideIcon
     /// Represents the brain cog value.
     /// </summary>
     BrainCog,
+    /// <summary>
+    /// Represents the brain off value.
+    /// </summary>
+    BrainOff,
     /// <summary>
     /// Represents the brick wall value.
     /// </summary>
@@ -3270,6 +3282,10 @@ public enum LucideIcon
     /// </summary>
     Grape,
     /// <summary>
+    /// Represents the graph hub value.
+    /// </summary>
+    GraphHub,
+    /// <summary>
     /// Represents the graph star value.
     /// </summary>
     GraphStar,
@@ -3858,6 +3874,10 @@ public enum LucideIcon
     /// </summary>
     LensConvex,
     /// <summary>
+    /// Represents the letter spacing value.
+    /// </summary>
+    LetterSpacing,
+    /// <summary>
     /// Represents the letters value.
     /// </summary>
     Letters,
@@ -3905,6 +3925,10 @@ public enum LucideIcon
     /// Represents the line dot top vertical value.
     /// </summary>
     LineDotTopVertical,
+    /// <summary>
+    /// Represents the line height value.
+    /// </summary>
+    LineHeight,
     /// <summary>
     /// Represents the line squiggle value.
     /// </summary>
@@ -5994,6 +6018,10 @@ public enum LucideIcon
     /// </summary>
     SmartphoneNfc,
     /// <summary>
+    /// Represents the smartphone user round value.
+    /// </summary>
+    SmartphoneUserRound,
+    /// <summary>
     /// Represents the snail value.
     /// </summary>
     Snail,
@@ -6845,6 +6873,10 @@ public enum LucideIcon
     /// Represents the toilet value.
     /// </summary>
     Toilet,
+    /// <summary>
+    /// Represents the tombstone value.
+    /// </summary>
+    Tombstone,
     /// <summary>
     /// Represents the tool case value.
     /// </summary>
