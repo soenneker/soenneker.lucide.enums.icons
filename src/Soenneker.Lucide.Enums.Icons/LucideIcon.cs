@@ -1574,6 +1574,22 @@ public enum LucideIcon
     /// </summary>
     CircleChevronUp,
     /// <summary>
+    /// Represents the circle chevrons down value.
+    /// </summary>
+    CircleChevronsDown,
+    /// <summary>
+    /// Represents the circle chevrons left value.
+    /// </summary>
+    CircleChevronsLeft,
+    /// <summary>
+    /// Represents the circle chevrons right value.
+    /// </summary>
+    CircleChevronsRight,
+    /// <summary>
+    /// Represents the circle chevrons up value.
+    /// </summary>
+    CircleChevronsUp,
+    /// <summary>
     /// Represents the circle dashed value.
     /// </summary>
     CircleDashed,
