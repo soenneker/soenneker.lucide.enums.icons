@@ -438,6 +438,10 @@ public enum LucideIcon
     /// </summary>
     Axis3D,
     /// <summary>
+    /// Represents the azerbaijani manat value.
+    /// </summary>
+    AzerbaijaniManat,
+    /// <summary>
     /// Represents the baby value.
     /// </summary>
     Baby,
@@ -525,6 +529,10 @@ public enum LucideIcon
     /// Represents the baggage claim value.
     /// </summary>
     BaggageClaim,
+    /// <summary>
+    /// Represents the ball wave value.
+    /// </summary>
+    BallWave,
     /// <summary>
     /// Represents the balloon value.
     /// </summary>
@@ -2494,6 +2502,10 @@ public enum LucideIcon
     /// </summary>
     EllipsisVertical,
     /// <summary>
+    /// Represents the emirati dirham value.
+    /// </summary>
+    EmiratiDirham,
+    /// <summary>
     /// Represents the engine value.
     /// </summary>
     Engine,
@@ -3546,6 +3558,10 @@ public enum LucideIcon
     /// </summary>
     HikingStick,
     /// <summary>
+    /// Represents the hockey stick value.
+    /// </summary>
+    HockeyStick,
+    /// <summary>
     /// Represents the hop value.
     /// </summary>
     Hop,
@@ -3557,6 +3573,10 @@ public enum LucideIcon
     /// Represents the hospital value.
     /// </summary>
     Hospital,
+    /// <summary>
+    /// Represents the hot air balloon value.
+    /// </summary>
+    HotAirBalloon,
     /// <summary>
     /// Represents the hotel value.
     /// </summary>
