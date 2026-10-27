@@ -202,9 +202,13 @@ public enum LucideIcon
     /// </summary>
     Archive,
     /// <summary>
-    /// Represents the archive restore value.
+    /// Represents the archive arrow down value.
     /// </summary>
-    ArchiveRestore,
+    ArchiveArrowDown,
+    /// <summary>
+    /// Represents the archive arrow up value.
+    /// </summary>
+    ArchiveArrowUp,
     /// <summary>
     /// Represents the archive x value.
     /// </summary>
@@ -954,6 +958,10 @@ public enum LucideIcon
     /// </summary>
     Boxes,
     /// <summary>
+    /// Represents the boxes linked value.
+    /// </summary>
+    BoxesLinked,
+    /// <summary>
     /// Represents the braces value.
     /// </summary>
     Braces,
@@ -1105,6 +1113,14 @@ public enum LucideIcon
     /// Represents the calendar arrow down value.
     /// </summary>
     CalendarArrowDown,
+    /// <summary>
+    /// Represents the calendar arrow left value.
+    /// </summary>
+    CalendarArrowLeft,
+    /// <summary>
+    /// Represents the calendar arrow right value.
+    /// </summary>
+    CalendarArrowRight,
     /// <summary>
     /// Represents the calendar arrow up value.
     /// </summary>
@@ -1393,6 +1409,14 @@ public enum LucideIcon
     /// Represents the chart pie value.
     /// </summary>
     ChartPie,
+    /// <summary>
+    /// Represents the chart quadrant value.
+    /// </summary>
+    ChartQuadrant,
+    /// <summary>
+    /// Represents the chart radar value.
+    /// </summary>
+    ChartRadar,
     /// <summary>
     /// Represents the chart scatter value.
     /// </summary>
@@ -2238,6 +2262,10 @@ public enum LucideIcon
     /// </summary>
     DatabaseCheck,
     /// <summary>
+    /// Represents the database cog value.
+    /// </summary>
+    DatabaseCog,
+    /// <summary>
     /// Represents the database minus value.
     /// </summary>
     DatabaseMinus,
@@ -2453,6 +2481,14 @@ public enum LucideIcon
     /// Represents the ear off value.
     /// </summary>
     EarOff,
+    /// <summary>
+    /// Represents the earbuds value.
+    /// </summary>
+    Earbuds,
+    /// <summary>
+    /// Represents the earbuds off value.
+    /// </summary>
+    EarbudsOff,
     /// <summary>
     /// Represents the earth value.
     /// </summary>
@@ -3805,6 +3841,10 @@ public enum LucideIcon
     /// Represents the laptop minimal check value.
     /// </summary>
     LaptopMinimalCheck,
+    /// <summary>
+    /// Represents the laser value.
+    /// </summary>
+    Laser,
     /// <summary>
     /// Represents the lasso value.
     /// </summary>
@@ -6010,6 +6050,10 @@ public enum LucideIcon
     /// </summary>
     Siren,
     /// <summary>
+    /// Represents the siren off value.
+    /// </summary>
+    SirenOff,
+    /// <summary>
     /// Represents the sixteenth notes value.
     /// </summary>
     SixteenthNotes,
@@ -6257,6 +6301,22 @@ public enum LucideIcon
     /// Represents the square chevron up value.
     /// </summary>
     SquareChevronUp,
+    /// <summary>
+    /// Represents the square chevrons down value.
+    /// </summary>
+    SquareChevronsDown,
+    /// <summary>
+    /// Represents the square chevrons left value.
+    /// </summary>
+    SquareChevronsLeft,
+    /// <summary>
+    /// Represents the square chevrons right value.
+    /// </summary>
+    SquareChevronsRight,
+    /// <summary>
+    /// Represents the square chevrons up value.
+    /// </summary>
+    SquareChevronsUp,
     /// <summary>
     /// Represents the square code value.
     /// </summary>
@@ -7237,6 +7297,10 @@ public enum LucideIcon
     /// Represents the user round search value.
     /// </summary>
     UserRoundSearch,
+    /// <summary>
+    /// Represents the user round shield value.
+    /// </summary>
+    UserRoundShield,
     /// <summary>
     /// Represents the user round star value.
     /// </summary>
