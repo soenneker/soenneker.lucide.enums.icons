@@ -778,10 +778,6 @@ public enum LucideIcon
     /// </summary>
     BluetoothSearching,
     /// <summary>
-    /// Represents the bold value.
-    /// </summary>
-    Bold,
-    /// <summary>
     /// Represents the bolt value.
     /// </summary>
     Bolt,
@@ -1674,6 +1670,114 @@ public enum LucideIcon
     /// </summary>
     CircleGauge,
     /// <summary>
+    /// Represents the circle letter a value.
+    /// </summary>
+    CircleLetterA,
+    /// <summary>
+    /// Represents the circle letter b value.
+    /// </summary>
+    CircleLetterB,
+    /// <summary>
+    /// Represents the circle letter c value.
+    /// </summary>
+    CircleLetterC,
+    /// <summary>
+    /// Represents the circle letter d value.
+    /// </summary>
+    CircleLetterD,
+    /// <summary>
+    /// Represents the circle letter e value.
+    /// </summary>
+    CircleLetterE,
+    /// <summary>
+    /// Represents the circle letter f value.
+    /// </summary>
+    CircleLetterF,
+    /// <summary>
+    /// Represents the circle letter g value.
+    /// </summary>
+    CircleLetterG,
+    /// <summary>
+    /// Represents the circle letter h value.
+    /// </summary>
+    CircleLetterH,
+    /// <summary>
+    /// Represents the circle letter i value.
+    /// </summary>
+    CircleLetterI,
+    /// <summary>
+    /// Represents the circle letter j value.
+    /// </summary>
+    CircleLetterJ,
+    /// <summary>
+    /// Represents the circle letter k value.
+    /// </summary>
+    CircleLetterK,
+    /// <summary>
+    /// Represents the circle letter l value.
+    /// </summary>
+    CircleLetterL,
+    /// <summary>
+    /// Represents the circle letter m value.
+    /// </summary>
+    CircleLetterM,
+    /// <summary>
+    /// Represents the circle letter n value.
+    /// </summary>
+    CircleLetterN,
+    /// <summary>
+    /// Represents the circle letter o value.
+    /// </summary>
+    CircleLetterO,
+    /// <summary>
+    /// Represents the circle letter p value.
+    /// </summary>
+    CircleLetterP,
+    /// <summary>
+    /// Represents the circle letter p off value.
+    /// </summary>
+    CircleLetterPOff,
+    /// <summary>
+    /// Represents the circle letter q value.
+    /// </summary>
+    CircleLetterQ,
+    /// <summary>
+    /// Represents the circle letter r value.
+    /// </summary>
+    CircleLetterR,
+    /// <summary>
+    /// Represents the circle letter s value.
+    /// </summary>
+    CircleLetterS,
+    /// <summary>
+    /// Represents the circle letter t value.
+    /// </summary>
+    CircleLetterT,
+    /// <summary>
+    /// Represents the circle letter u value.
+    /// </summary>
+    CircleLetterU,
+    /// <summary>
+    /// Represents the circle letter v value.
+    /// </summary>
+    CircleLetterV,
+    /// <summary>
+    /// Represents the circle letter w value.
+    /// </summary>
+    CircleLetterW,
+    /// <summary>
+    /// Represents the circle letter x value.
+    /// </summary>
+    CircleLetterX,
+    /// <summary>
+    /// Represents the circle letter y value.
+    /// </summary>
+    CircleLetterY,
+    /// <summary>
+    /// Represents the circle letter z value.
+    /// </summary>
+    CircleLetterZ,
+    /// <summary>
     /// Represents the circle minus value.
     /// </summary>
     CircleMinus,
@@ -1681,14 +1785,6 @@ public enum LucideIcon
     /// Represents the circle off value.
     /// </summary>
     CircleOff,
-    /// <summary>
-    /// Represents the circle parking value.
-    /// </summary>
-    CircleParking,
-    /// <summary>
-    /// Represents the circle parking off value.
-    /// </summary>
-    CircleParkingOff,
     /// <summary>
     /// Represents the circle pause value.
     /// </summary>
@@ -3502,10 +3598,6 @@ public enum LucideIcon
     /// </summary>
     HdmiPort,
     /// <summary>
-    /// Represents the heading value.
-    /// </summary>
-    Heading,
-    /// <summary>
     /// Represents the heading1 value.
     /// </summary>
     Heading1,
@@ -3950,9 +4042,113 @@ public enum LucideIcon
     /// </summary>
     LensConvex,
     /// <summary>
+    /// Represents the letter a value.
+    /// </summary>
+    LetterA,
+    /// <summary>
+    /// Represents the letter b value.
+    /// </summary>
+    LetterB,
+    /// <summary>
+    /// Represents the letter c value.
+    /// </summary>
+    LetterC,
+    /// <summary>
+    /// Represents the letter d value.
+    /// </summary>
+    LetterD,
+    /// <summary>
+    /// Represents the letter e value.
+    /// </summary>
+    LetterE,
+    /// <summary>
+    /// Represents the letter f value.
+    /// </summary>
+    LetterF,
+    /// <summary>
+    /// Represents the letter g value.
+    /// </summary>
+    LetterG,
+    /// <summary>
+    /// Represents the letter h value.
+    /// </summary>
+    LetterH,
+    /// <summary>
+    /// Represents the letter i value.
+    /// </summary>
+    LetterI,
+    /// <summary>
+    /// Represents the letter j value.
+    /// </summary>
+    LetterJ,
+    /// <summary>
+    /// Represents the letter k value.
+    /// </summary>
+    LetterK,
+    /// <summary>
+    /// Represents the letter l value.
+    /// </summary>
+    LetterL,
+    /// <summary>
+    /// Represents the letter m value.
+    /// </summary>
+    LetterM,
+    /// <summary>
+    /// Represents the letter n value.
+    /// </summary>
+    LetterN,
+    /// <summary>
+    /// Represents the letter o value.
+    /// </summary>
+    LetterO,
+    /// <summary>
+    /// Represents the letter p value.
+    /// </summary>
+    LetterP,
+    /// <summary>
+    /// Represents the letter q value.
+    /// </summary>
+    LetterQ,
+    /// <summary>
+    /// Represents the letter r value.
+    /// </summary>
+    LetterR,
+    /// <summary>
+    /// Represents the letter s value.
+    /// </summary>
+    LetterS,
+    /// <summary>
     /// Represents the letter spacing value.
     /// </summary>
     LetterSpacing,
+    /// <summary>
+    /// Represents the letter t value.
+    /// </summary>
+    LetterT,
+    /// <summary>
+    /// Represents the letter u value.
+    /// </summary>
+    LetterU,
+    /// <summary>
+    /// Represents the letter v value.
+    /// </summary>
+    LetterV,
+    /// <summary>
+    /// Represents the letter w value.
+    /// </summary>
+    LetterW,
+    /// <summary>
+    /// Represents the letter x value.
+    /// </summary>
+    LetterX,
+    /// <summary>
+    /// Represents the letter y value.
+    /// </summary>
+    LetterY,
+    /// <summary>
+    /// Represents the letter z value.
+    /// </summary>
+    LetterZ,
     /// <summary>
     /// Represents the letters value.
     /// </summary>
@@ -4817,6 +5013,10 @@ public enum LucideIcon
     /// Represents the notepad text dashed value.
     /// </summary>
     NotepadTextDashed,
+    /// <summary>
+    /// Represents the numbers value.
+    /// </summary>
+    Numbers,
     /// <summary>
     /// Represents the nut value.
     /// </summary>
@@ -6390,13 +6590,121 @@ public enum LucideIcon
     /// </summary>
     SquareKanban,
     /// <summary>
+    /// Represents the square kanban plus value.
+    /// </summary>
+    SquareKanbanPlus,
+    /// <summary>
+    /// Represents the square letter a value.
+    /// </summary>
+    SquareLetterA,
+    /// <summary>
+    /// Represents the square letter b value.
+    /// </summary>
+    SquareLetterB,
+    /// <summary>
+    /// Represents the square letter c value.
+    /// </summary>
+    SquareLetterC,
+    /// <summary>
+    /// Represents the square letter d value.
+    /// </summary>
+    SquareLetterD,
+    /// <summary>
+    /// Represents the square letter e value.
+    /// </summary>
+    SquareLetterE,
+    /// <summary>
+    /// Represents the square letter f value.
+    /// </summary>
+    SquareLetterF,
+    /// <summary>
+    /// Represents the square letter g value.
+    /// </summary>
+    SquareLetterG,
+    /// <summary>
+    /// Represents the square letter h value.
+    /// </summary>
+    SquareLetterH,
+    /// <summary>
+    /// Represents the square letter i value.
+    /// </summary>
+    SquareLetterI,
+    /// <summary>
+    /// Represents the square letter j value.
+    /// </summary>
+    SquareLetterJ,
+    /// <summary>
+    /// Represents the square letter k value.
+    /// </summary>
+    SquareLetterK,
+    /// <summary>
+    /// Represents the square letter l value.
+    /// </summary>
+    SquareLetterL,
+    /// <summary>
+    /// Represents the square letter m value.
+    /// </summary>
+    SquareLetterM,
+    /// <summary>
+    /// Represents the square letter n value.
+    /// </summary>
+    SquareLetterN,
+    /// <summary>
+    /// Represents the square letter o value.
+    /// </summary>
+    SquareLetterO,
+    /// <summary>
+    /// Represents the square letter p value.
+    /// </summary>
+    SquareLetterP,
+    /// <summary>
+    /// Represents the square letter p off value.
+    /// </summary>
+    SquareLetterPOff,
+    /// <summary>
+    /// Represents the square letter q value.
+    /// </summary>
+    SquareLetterQ,
+    /// <summary>
+    /// Represents the square letter r value.
+    /// </summary>
+    SquareLetterR,
+    /// <summary>
+    /// Represents the square letter s value.
+    /// </summary>
+    SquareLetterS,
+    /// <summary>
+    /// Represents the square letter t value.
+    /// </summary>
+    SquareLetterT,
+    /// <summary>
+    /// Represents the square letter u value.
+    /// </summary>
+    SquareLetterU,
+    /// <summary>
+    /// Represents the square letter v value.
+    /// </summary>
+    SquareLetterV,
+    /// <summary>
+    /// Represents the square letter w value.
+    /// </summary>
+    SquareLetterW,
+    /// <summary>
+    /// Represents the square letter x value.
+    /// </summary>
+    SquareLetterX,
+    /// <summary>
+    /// Represents the square letter y value.
+    /// </summary>
+    SquareLetterY,
+    /// <summary>
+    /// Represents the square letter z value.
+    /// </summary>
+    SquareLetterZ,
+    /// <summary>
     /// Represents the square library value.
     /// </summary>
     SquareLibrary,
-    /// <summary>
-    /// Represents the square m value.
-    /// </summary>
-    SquareM,
     /// <summary>
     /// Represents the square menu value.
     /// </summary>
@@ -6413,14 +6721,6 @@ public enum LucideIcon
     /// Represents the square off value.
     /// </summary>
     SquareOff,
-    /// <summary>
-    /// Represents the square parking value.
-    /// </summary>
-    SquareParking,
-    /// <summary>
-    /// Represents the square parking off value.
-    /// </summary>
-    SquareParkingOff,
     /// <summary>
     /// Represents the square pause value.
     /// </summary>
