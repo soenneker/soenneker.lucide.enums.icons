@@ -2222,10 +2222,6 @@ public enum LucideIcon
     /// </summary>
     Copyleft,
     /// <summary>
-    /// Represents the copyright value.
-    /// </summary>
-    Copyright,
-    /// <summary>
     /// Represents the corner down left value.
     /// </summary>
     CornerDownLeft,
