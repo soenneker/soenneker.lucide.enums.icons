@@ -1346,6 +1346,10 @@ public enum LucideIcon
     /// </summary>
     ChartBarStacked,
     /// <summary>
+    /// Represents the chart bell curve value.
+    /// </summary>
+    ChartBellCurve,
+    /// <summary>
     /// Represents the chart candlestick value.
     /// </summary>
     ChartCandlestick,
@@ -2817,6 +2821,10 @@ public enum LucideIcon
     /// Represents the file cog value.
     /// </summary>
     FileCog,
+    /// <summary>
+    /// Represents the file database value.
+    /// </summary>
+    FileDatabase,
     /// <summary>
     /// Represents the file diff value.
     /// </summary>
@@ -4506,6 +4514,34 @@ public enum LucideIcon
     /// </summary>
     MapPlus,
     /// <summary>
+    /// Represents the margin value.
+    /// </summary>
+    Margin,
+    /// <summary>
+    /// Represents the margin bottom value.
+    /// </summary>
+    MarginBottom,
+    /// <summary>
+    /// Represents the margin horizontal value.
+    /// </summary>
+    MarginHorizontal,
+    /// <summary>
+    /// Represents the margin left value.
+    /// </summary>
+    MarginLeft,
+    /// <summary>
+    /// Represents the margin right value.
+    /// </summary>
+    MarginRight,
+    /// <summary>
+    /// Represents the margin top value.
+    /// </summary>
+    MarginTop,
+    /// <summary>
+    /// Represents the margin vertical value.
+    /// </summary>
+    MarginVertical,
+    /// <summary>
     /// Represents the mars value.
     /// </summary>
     Mars,
@@ -4757,6 +4793,10 @@ public enum LucideIcon
     /// Represents the monitor value.
     /// </summary>
     Monitor,
+    /// <summary>
+    /// Represents the monitor activity value.
+    /// </summary>
+    MonitorActivity,
     /// <summary>
     /// Represents the monitor check value.
     /// </summary>
@@ -6717,6 +6757,34 @@ public enum LucideIcon
     /// Represents the square off value.
     /// </summary>
     SquareOff,
+    /// <summary>
+    /// Represents the square padding value.
+    /// </summary>
+    SquarePadding,
+    /// <summary>
+    /// Represents the square padding bottom value.
+    /// </summary>
+    SquarePaddingBottom,
+    /// <summary>
+    /// Represents the square padding horizontal value.
+    /// </summary>
+    SquarePaddingHorizontal,
+    /// <summary>
+    /// Represents the square padding left value.
+    /// </summary>
+    SquarePaddingLeft,
+    /// <summary>
+    /// Represents the square padding right value.
+    /// </summary>
+    SquarePaddingRight,
+    /// <summary>
+    /// Represents the square padding top value.
+    /// </summary>
+    SquarePaddingTop,
+    /// <summary>
+    /// Represents the square padding vertical value.
+    /// </summary>
+    SquarePaddingVertical,
     /// <summary>
     /// Represents the square pause value.
     /// </summary>
