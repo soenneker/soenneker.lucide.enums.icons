@@ -2398,6 +2398,14 @@ public enum LucideIcon
     /// </summary>
     Dessert,
     /// <summary>
+    /// Represents the diagram flow horizontal value.
+    /// </summary>
+    DiagramFlowHorizontal,
+    /// <summary>
+    /// Represents the diagram flow vertical value.
+    /// </summary>
+    DiagramFlowVertical,
+    /// <summary>
     /// Represents the diameter value.
     /// </summary>
     Diameter,
@@ -3409,6 +3417,10 @@ public enum LucideIcon
     /// Represents the globe value.
     /// </summary>
     Globe,
+    /// <summary>
+    /// Represents the globe ban value.
+    /// </summary>
+    GlobeBan,
     /// <summary>
     /// Represents the globe check value.
     /// </summary>
