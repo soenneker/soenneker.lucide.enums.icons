@@ -3438,6 +3438,10 @@ public enum LucideIcon
     /// </summary>
     GlobeOff,
     /// <summary>
+    /// Represents the globe plus value.
+    /// </summary>
+    GlobePlus,
+    /// <summary>
     /// Represents the globe x value.
     /// </summary>
     GlobeX,
