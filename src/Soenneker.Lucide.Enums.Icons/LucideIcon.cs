@@ -462,10 +462,6 @@ public enum LucideIcon
     /// </summary>
     Badge,
     /// <summary>
-    /// Represents the badge alert value.
-    /// </summary>
-    BadgeAlert,
-    /// <summary>
     /// Represents the badge cent value.
     /// </summary>
     BadgeCent,
@@ -481,6 +477,10 @@ public enum LucideIcon
     /// Represents the badge euro value.
     /// </summary>
     BadgeEuro,
+    /// <summary>
+    /// Represents the badge exclamation point value.
+    /// </summary>
+    BadgeExclamationPoint,
     /// <summary>
     /// Represents the badge indian rupee value.
     /// </summary>
@@ -602,6 +602,10 @@ public enum LucideIcon
     /// </summary>
     BatteryCharging,
     /// <summary>
+    /// Represents the battery exclamation point value.
+    /// </summary>
+    BatteryExclamationPoint,
+    /// <summary>
     /// Represents the battery full value.
     /// </summary>
     BatteryFull,
@@ -617,10 +621,6 @@ public enum LucideIcon
     /// Represents the battery plus value.
     /// </summary>
     BatteryPlus,
-    /// <summary>
-    /// Represents the battery warning value.
-    /// </summary>
-    BatteryWarning,
     /// <summary>
     /// Represents the beaker value.
     /// </summary>
@@ -802,10 +802,6 @@ public enum LucideIcon
     /// </summary>
     BookA,
     /// <summary>
-    /// Represents the book alert value.
-    /// </summary>
-    BookAlert,
-    /// <summary>
     /// Represents the book audio value.
     /// </summary>
     BookAudio,
@@ -829,6 +825,10 @@ public enum LucideIcon
     /// Represents the book down value.
     /// </summary>
     BookDown,
+    /// <summary>
+    /// Represents the book exclamation point value.
+    /// </summary>
+    BookExclamationPoint,
     /// <summary>
     /// Represents the book headphones value.
     /// </summary>
@@ -1546,10 +1546,6 @@ public enum LucideIcon
     /// </summary>
     Circle,
     /// <summary>
-    /// Represents the circle alert value.
-    /// </summary>
-    CircleAlert,
-    /// <summary>
     /// Represents the circle arrow down value.
     /// </summary>
     CircleArrowDown,
@@ -1657,6 +1653,10 @@ public enum LucideIcon
     /// Represents the circle euro value.
     /// </summary>
     CircleEuro,
+    /// <summary>
+    /// Represents the circle exclamation point value.
+    /// </summary>
+    CircleExclamationPoint,
     /// <summary>
     /// Represents the circle fading arrow up value.
     /// </summary>
@@ -1978,10 +1978,6 @@ public enum LucideIcon
     /// </summary>
     Clock9,
     /// <summary>
-    /// Represents the clock alert value.
-    /// </summary>
-    ClockAlert,
-    /// <summary>
     /// Represents the clock arrow down value.
     /// </summary>
     ClockArrowDown,
@@ -2002,6 +1998,10 @@ public enum LucideIcon
     /// </summary>
     ClockCheck,
     /// <summary>
+    /// Represents the clock exclamation point value.
+    /// </summary>
+    ClockExclamationPoint,
+    /// <summary>
     /// Represents the clock fading value.
     /// </summary>
     ClockFading,
@@ -2017,10 +2017,6 @@ public enum LucideIcon
     /// Represents the cloud value.
     /// </summary>
     Cloud,
-    /// <summary>
-    /// Represents the cloud alert value.
-    /// </summary>
-    CloudAlert,
     /// <summary>
     /// Represents the cloud backup value.
     /// </summary>
@@ -2041,6 +2037,10 @@ public enum LucideIcon
     /// Represents the cloud drizzle value.
     /// </summary>
     CloudDrizzle,
+    /// <summary>
+    /// Represents the cloud exclamation point value.
+    /// </summary>
+    CloudExclamationPoint,
     /// <summary>
     /// Represents the cloud fog value.
     /// </summary>
@@ -4422,6 +4422,10 @@ public enum LucideIcon
     /// </summary>
     MailDot,
     /// <summary>
+    /// Represents the mail exclamation point value.
+    /// </summary>
+    MailExclamationPoint,
+    /// <summary>
     /// Represents the mail minus value.
     /// </summary>
     MailMinus,
@@ -4446,10 +4450,6 @@ public enum LucideIcon
     /// </summary>
     MailSearch,
     /// <summary>
-    /// Represents the mail warning value.
-    /// </summary>
-    MailWarning,
-    /// <summary>
     /// Represents the mail x value.
     /// </summary>
     MailX,
@@ -4461,6 +4461,10 @@ public enum LucideIcon
     /// Represents the mails value.
     /// </summary>
     Mails,
+    /// <summary>
+    /// Represents the mango value.
+    /// </summary>
+    Mango,
     /// <summary>
     /// Represents the map value.
     /// </summary>
@@ -4622,6 +4626,10 @@ public enum LucideIcon
     /// </summary>
     MessageCircleDashedCheck,
     /// <summary>
+    /// Represents the message circle exclamation point value.
+    /// </summary>
+    MessageCircleExclamationPoint,
+    /// <summary>
     /// Represents the message circle heart value.
     /// </summary>
     MessageCircleHeart,
@@ -4650,10 +4658,6 @@ public enum LucideIcon
     /// </summary>
     MessageCircleText,
     /// <summary>
-    /// Represents the message circle warning value.
-    /// </summary>
-    MessageCircleWarning,
-    /// <summary>
     /// Represents the message circle x value.
     /// </summary>
     MessageCircleX,
@@ -4681,6 +4685,10 @@ public enum LucideIcon
     /// Represents the message square dot value.
     /// </summary>
     MessageSquareDot,
+    /// <summary>
+    /// Represents the message square exclamation point value.
+    /// </summary>
+    MessageSquareExclamationPoint,
     /// <summary>
     /// Represents the message square heart value.
     /// </summary>
@@ -4717,10 +4725,6 @@ public enum LucideIcon
     /// Represents the message square text value.
     /// </summary>
     MessageSquareText,
-    /// <summary>
-    /// Represents the message square warning value.
-    /// </summary>
-    MessageSquareWarning,
     /// <summary>
     /// Represents the message square x value.
     /// </summary>
@@ -5082,9 +5086,9 @@ public enum LucideIcon
     /// </summary>
     Octagon,
     /// <summary>
-    /// Represents the octagon alert value.
+    /// Represents the octagon exclamation point value.
     /// </summary>
-    OctagonAlert,
+    OctagonExclamationPoint,
     /// <summary>
     /// Represents the octagon minus value.
     /// </summary>
@@ -6026,10 +6030,6 @@ public enum LucideIcon
     /// </summary>
     Search,
     /// <summary>
-    /// Represents the search alert value.
-    /// </summary>
-    SearchAlert,
-    /// <summary>
     /// Represents the search check value.
     /// </summary>
     SearchCheck,
@@ -6037,6 +6037,10 @@ public enum LucideIcon
     /// Represents the search code value.
     /// </summary>
     SearchCode,
+    /// <summary>
+    /// Represents the search exclamation point value.
+    /// </summary>
+    SearchExclamationPoint,
     /// <summary>
     /// Represents the search slash value.
     /// </summary>
@@ -6130,10 +6134,6 @@ public enum LucideIcon
     /// </summary>
     Shield,
     /// <summary>
-    /// Represents the shield alert value.
-    /// </summary>
-    ShieldAlert,
-    /// <summary>
     /// Represents the shield ban value.
     /// </summary>
     ShieldBan,
@@ -6153,6 +6153,10 @@ public enum LucideIcon
     /// Represents the shield ellipsis value.
     /// </summary>
     ShieldEllipsis,
+    /// <summary>
+    /// Represents the shield exclamation point value.
+    /// </summary>
+    ShieldExclamationPoint,
     /// <summary>
     /// Represents the shield half value.
     /// </summary>
@@ -7470,13 +7474,13 @@ public enum LucideIcon
     /// </summary>
     Triangle,
     /// <summary>
-    /// Represents the triangle alert value.
-    /// </summary>
-    TriangleAlert,
-    /// <summary>
     /// Represents the triangle dashed value.
     /// </summary>
     TriangleDashed,
+    /// <summary>
+    /// Represents the triangle exclamation point value.
+    /// </summary>
+    TriangleExclamationPoint,
     /// <summary>
     /// Represents the triangle right value.
     /// </summary>
