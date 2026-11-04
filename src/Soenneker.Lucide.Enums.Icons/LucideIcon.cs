@@ -1662,6 +1662,10 @@ public enum LucideIcon
     /// </summary>
     CircleFadingArrowUp,
     /// <summary>
+    /// Represents the circle fading check value.
+    /// </summary>
+    CircleFadingCheck,
+    /// <summary>
     /// Represents the circle fading play value.
     /// </summary>
     CircleFadingPlay,
@@ -5106,6 +5110,10 @@ public enum LucideIcon
     /// </summary>
     Omega,
     /// <summary>
+    /// Represents the opacity value.
+    /// </summary>
+    Opacity,
+    /// <summary>
     /// Represents the option value.
     /// </summary>
     Option,
@@ -5138,9 +5146,17 @@ public enum LucideIcon
     /// </summary>
     PackageOpen,
     /// <summary>
+    /// Represents the package pen value.
+    /// </summary>
+    PackagePen,
+    /// <summary>
     /// Represents the package plus value.
     /// </summary>
     PackagePlus,
+    /// <summary>
+    /// Represents the package question mark value.
+    /// </summary>
+    PackageQuestionMark,
     /// <summary>
     /// Represents the package search value.
     /// </summary>
