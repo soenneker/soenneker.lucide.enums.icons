@@ -3498,6 +3498,10 @@ public enum LucideIcon
     /// </summary>
     Grid3X3,
     /// <summary>
+    /// Represents the grid3 x3 off value.
+    /// </summary>
+    Grid3X3Off,
+    /// <summary>
     /// Represents the grip value.
     /// </summary>
     Grip,
@@ -4893,6 +4897,10 @@ public enum LucideIcon
     /// Represents the mop sparkles value.
     /// </summary>
     MopSparkles,
+    /// <summary>
+    /// Represents the moped value.
+    /// </summary>
+    Moped,
     /// <summary>
     /// Represents the mosque value.
     /// </summary>
@@ -6618,6 +6626,10 @@ public enum LucideIcon
     /// </summary>
     SquareDashedPlus,
     /// <summary>
+    /// Represents the square dashed search value.
+    /// </summary>
+    SquareDashedSearch,
+    /// <summary>
     /// Represents the square dashed text value.
     /// </summary>
     SquareDashedText,
@@ -7634,6 +7646,10 @@ public enum LucideIcon
     /// </summary>
     UserCog,
     /// <summary>
+    /// Represents the user exclamation point value.
+    /// </summary>
+    UserExclamationPoint,
+    /// <summary>
     /// Represents the user group value.
     /// </summary>
     UserGroup,
@@ -7673,6 +7689,10 @@ public enum LucideIcon
     /// Represents the user round cog value.
     /// </summary>
     UserRoundCog,
+    /// <summary>
+    /// Represents the user round exclamation point value.
+    /// </summary>
+    UserRoundExclamationPoint,
     /// <summary>
     /// Represents the user round group value.
     /// </summary>
