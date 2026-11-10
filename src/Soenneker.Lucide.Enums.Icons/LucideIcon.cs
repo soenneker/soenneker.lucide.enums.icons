@@ -398,6 +398,10 @@ public enum LucideIcon
     /// </summary>
     Asterisk,
     /// <summary>
+    /// Represents the asterism value.
+    /// </summary>
+    Asterism,
+    /// <summary>
     /// Represents the astroid value.
     /// </summary>
     Astroid,
@@ -2690,6 +2694,10 @@ public enum LucideIcon
     /// </summary>
     EvCharger,
     /// <summary>
+    /// Represents the exclamation mark value.
+    /// </summary>
+    ExclamationMark,
+    /// <summary>
     /// Represents the expand value.
     /// </summary>
     Expand,
@@ -4914,6 +4922,10 @@ public enum LucideIcon
     /// </summary>
     Motorbike,
     /// <summary>
+    /// Represents the mound shovel value.
+    /// </summary>
+    MoundShovel,
+    /// <summary>
     /// Represents the mountain value.
     /// </summary>
     Mountain,
@@ -5606,6 +5618,10 @@ public enum LucideIcon
     /// </summary>
     QrCode,
     /// <summary>
+    /// Represents the question mark value.
+    /// </summary>
+    QuestionMark,
+    /// <summary>
     /// Represents the quote value.
     /// </summary>
     Quote,
@@ -5869,6 +5885,10 @@ public enum LucideIcon
     /// Represents the route value.
     /// </summary>
     Route,
+    /// <summary>
+    /// Represents the route arrow right value.
+    /// </summary>
+    RouteArrowRight,
     /// <summary>
     /// Represents the route off value.
     /// </summary>
@@ -7345,6 +7365,10 @@ public enum LucideIcon
     /// Represents the text initial value.
     /// </summary>
     TextInitial,
+    /// <summary>
+    /// Represents the text pen value.
+    /// </summary>
+    TextPen,
     /// <summary>
     /// Represents the text quote value.
     /// </summary>
