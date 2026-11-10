@@ -1438,6 +1438,10 @@ public enum LucideIcon
     /// </summary>
     CheckLine,
     /// <summary>
+    /// Represents the cheese value.
+    /// </summary>
+    Cheese,
+    /// <summary>
     /// Represents the chef hat value.
     /// </summary>
     ChefHat,
@@ -1550,25 +1554,17 @@ public enum LucideIcon
     /// </summary>
     CircleArrowDown,
     /// <summary>
+    /// Represents the circle arrow down left exit value.
+    /// </summary>
+    CircleArrowDownLeftExit,
+    /// <summary>
+    /// Represents the circle arrow down right exit value.
+    /// </summary>
+    CircleArrowDownRightExit,
+    /// <summary>
     /// Represents the circle arrow left value.
     /// </summary>
     CircleArrowLeft,
-    /// <summary>
-    /// Represents the circle arrow out down left value.
-    /// </summary>
-    CircleArrowOutDownLeft,
-    /// <summary>
-    /// Represents the circle arrow out down right value.
-    /// </summary>
-    CircleArrowOutDownRight,
-    /// <summary>
-    /// Represents the circle arrow out up left value.
-    /// </summary>
-    CircleArrowOutUpLeft,
-    /// <summary>
-    /// Represents the circle arrow out up right value.
-    /// </summary>
-    CircleArrowOutUpRight,
     /// <summary>
     /// Represents the circle arrow right value.
     /// </summary>
@@ -1577,6 +1573,14 @@ public enum LucideIcon
     /// Represents the circle arrow up value.
     /// </summary>
     CircleArrowUp,
+    /// <summary>
+    /// Represents the circle arrow up left exit value.
+    /// </summary>
+    CircleArrowUpLeftExit,
+    /// <summary>
+    /// Represents the circle arrow up right exit value.
+    /// </summary>
+    CircleArrowUpRightExit,
     /// <summary>
     /// Represents the circle check value.
     /// </summary>
@@ -6482,33 +6486,49 @@ public enum LucideIcon
     /// </summary>
     SquareArrowDown,
     /// <summary>
+    /// Represents the square arrow down enter value.
+    /// </summary>
+    SquareArrowDownEnter,
+    /// <summary>
+    /// Represents the square arrow down exit value.
+    /// </summary>
+    SquareArrowDownExit,
+    /// <summary>
     /// Represents the square arrow down left value.
     /// </summary>
     SquareArrowDownLeft,
+    /// <summary>
+    /// Represents the square arrow down left enter value.
+    /// </summary>
+    SquareArrowDownLeftEnter,
+    /// <summary>
+    /// Represents the square arrow down left exit value.
+    /// </summary>
+    SquareArrowDownLeftExit,
     /// <summary>
     /// Represents the square arrow down right value.
     /// </summary>
     SquareArrowDownRight,
     /// <summary>
+    /// Represents the square arrow down right enter value.
+    /// </summary>
+    SquareArrowDownRightEnter,
+    /// <summary>
+    /// Represents the square arrow down right exit value.
+    /// </summary>
+    SquareArrowDownRightExit,
+    /// <summary>
     /// Represents the square arrow left value.
     /// </summary>
     SquareArrowLeft,
     /// <summary>
-    /// Represents the square arrow out down left value.
+    /// Represents the square arrow left enter value.
     /// </summary>
-    SquareArrowOutDownLeft,
+    SquareArrowLeftEnter,
     /// <summary>
-    /// Represents the square arrow out down right value.
+    /// Represents the square arrow left exit value.
     /// </summary>
-    SquareArrowOutDownRight,
-    /// <summary>
-    /// Represents the square arrow out up left value.
-    /// </summary>
-    SquareArrowOutUpLeft,
-    /// <summary>
-    /// Represents the square arrow out up right value.
-    /// </summary>
-    SquareArrowOutUpRight,
+    SquareArrowLeftExit,
     /// <summary>
     /// Represents the square arrow right value.
     /// </summary>
@@ -6526,13 +6546,37 @@ public enum LucideIcon
     /// </summary>
     SquareArrowUp,
     /// <summary>
+    /// Represents the square arrow up enter value.
+    /// </summary>
+    SquareArrowUpEnter,
+    /// <summary>
+    /// Represents the square arrow up exit value.
+    /// </summary>
+    SquareArrowUpExit,
+    /// <summary>
     /// Represents the square arrow up left value.
     /// </summary>
     SquareArrowUpLeft,
     /// <summary>
+    /// Represents the square arrow up left enter value.
+    /// </summary>
+    SquareArrowUpLeftEnter,
+    /// <summary>
+    /// Represents the square arrow up left exit value.
+    /// </summary>
+    SquareArrowUpLeftExit,
+    /// <summary>
     /// Represents the square arrow up right value.
     /// </summary>
     SquareArrowUpRight,
+    /// <summary>
+    /// Represents the square arrow up right enter value.
+    /// </summary>
+    SquareArrowUpRightEnter,
+    /// <summary>
+    /// Represents the square arrow up right exit value.
+    /// </summary>
+    SquareArrowUpRightExit,
     /// <summary>
     /// Represents the square asterisk value.
     /// </summary>
@@ -7057,6 +7101,30 @@ public enum LucideIcon
     /// Represents the strikethrough value.
     /// </summary>
     Strikethrough,
+    /// <summary>
+    /// Represents the stroke line cap butt value.
+    /// </summary>
+    StrokeLineCapButt,
+    /// <summary>
+    /// Represents the stroke line cap round value.
+    /// </summary>
+    StrokeLineCapRound,
+    /// <summary>
+    /// Represents the stroke line cap square value.
+    /// </summary>
+    StrokeLineCapSquare,
+    /// <summary>
+    /// Represents the stroke line join bevel value.
+    /// </summary>
+    StrokeLineJoinBevel,
+    /// <summary>
+    /// Represents the stroke line join miter value.
+    /// </summary>
+    StrokeLineJoinMiter,
+    /// <summary>
+    /// Represents the stroke line join round value.
+    /// </summary>
+    StrokeLineJoinRound,
     /// <summary>
     /// Represents the subscript value.
     /// </summary>
