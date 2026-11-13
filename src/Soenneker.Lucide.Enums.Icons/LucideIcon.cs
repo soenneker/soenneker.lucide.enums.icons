@@ -1242,6 +1242,10 @@ public enum LucideIcon
     /// </summary>
     CannabisOff,
     /// <summary>
+    /// Represents the cap value.
+    /// </summary>
+    Cap,
+    /// <summary>
     /// Represents the captions value.
     /// </summary>
     Captions,
@@ -3482,6 +3486,10 @@ public enum LucideIcon
     /// </summary>
     GraphHub,
     /// <summary>
+    /// Represents the graph ring value.
+    /// </summary>
+    GraphRing,
+    /// <summary>
     /// Represents the graph star value.
     /// </summary>
     GraphStar,
@@ -4041,6 +4049,10 @@ public enum LucideIcon
     /// Represents the layout grid circles value.
     /// </summary>
     LayoutGridCircles,
+    /// <summary>
+    /// Represents the layout grid plus value.
+    /// </summary>
+    LayoutGridPlus,
     /// <summary>
     /// Represents the layout list value.
     /// </summary>
