@@ -4018,6 +4018,10 @@ public enum LucideIcon
     /// </summary>
     IvBag,
     /// <summary>
+    /// Represents the jacket value.
+    /// </summary>
+    Jacket,
+    /// <summary>
     /// Represents the japanese yen value.
     /// </summary>
     JapaneseYen,
@@ -5341,6 +5345,10 @@ public enum LucideIcon
     /// Represents the paint bucket value.
     /// </summary>
     PaintBucket,
+    /// <summary>
+    /// Represents the paint gun value.
+    /// </summary>
+    PaintGun,
     /// <summary>
     /// Represents the paint roller value.
     /// </summary>
