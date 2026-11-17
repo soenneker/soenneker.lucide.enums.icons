@@ -390,6 +390,38 @@ public enum LucideIcon
     /// </summary>
     ArrowUpZA,
     /// <summary>
+    /// Represents the arrows from axis dashed horizontal value.
+    /// </summary>
+    ArrowsFromAxisDashedHorizontal,
+    /// <summary>
+    /// Represents the arrows from axis dashed vertical value.
+    /// </summary>
+    ArrowsFromAxisDashedVertical,
+    /// <summary>
+    /// Represents the arrows from axis horizontal value.
+    /// </summary>
+    ArrowsFromAxisHorizontal,
+    /// <summary>
+    /// Represents the arrows from axis vertical value.
+    /// </summary>
+    ArrowsFromAxisVertical,
+    /// <summary>
+    /// Represents the arrows to axis dashed horizontal value.
+    /// </summary>
+    ArrowsToAxisDashedHorizontal,
+    /// <summary>
+    /// Represents the arrows to axis dashed vertical value.
+    /// </summary>
+    ArrowsToAxisDashedVertical,
+    /// <summary>
+    /// Represents the arrows to axis horizontal value.
+    /// </summary>
+    ArrowsToAxisHorizontal,
+    /// <summary>
+    /// Represents the arrows to axis vertical value.
+    /// </summary>
+    ArrowsToAxisVertical,
+    /// <summary>
     /// Represents the arrows up from line value.
     /// </summary>
     ArrowsUpFromLine,
@@ -934,13 +966,29 @@ public enum LucideIcon
     /// </summary>
     Bot,
     /// <summary>
+    /// Represents the bot check value.
+    /// </summary>
+    BotCheck,
+    /// <summary>
     /// Represents the bot message square value.
     /// </summary>
     BotMessageSquare,
     /// <summary>
+    /// Represents the bot minus value.
+    /// </summary>
+    BotMinus,
+    /// <summary>
     /// Represents the bot off value.
     /// </summary>
     BotOff,
+    /// <summary>
+    /// Represents the bot plus value.
+    /// </summary>
+    BotPlus,
+    /// <summary>
+    /// Represents the bot x value.
+    /// </summary>
+    BotX,
     /// <summary>
     /// Represents the bottle wine value.
     /// </summary>
@@ -1278,6 +1326,38 @@ public enum LucideIcon
     /// </summary>
     CardSim,
     /// <summary>
+    /// Represents the carets from axis dashed horizontal value.
+    /// </summary>
+    CaretsFromAxisDashedHorizontal,
+    /// <summary>
+    /// Represents the carets from axis dashed vertical value.
+    /// </summary>
+    CaretsFromAxisDashedVertical,
+    /// <summary>
+    /// Represents the carets from axis horizontal value.
+    /// </summary>
+    CaretsFromAxisHorizontal,
+    /// <summary>
+    /// Represents the carets from axis vertical value.
+    /// </summary>
+    CaretsFromAxisVertical,
+    /// <summary>
+    /// Represents the carets to axis dashed horizontal value.
+    /// </summary>
+    CaretsToAxisDashedHorizontal,
+    /// <summary>
+    /// Represents the carets to axis dashed vertical value.
+    /// </summary>
+    CaretsToAxisDashedVertical,
+    /// <summary>
+    /// Represents the carets to axis horizontal value.
+    /// </summary>
+    CaretsToAxisHorizontal,
+    /// <summary>
+    /// Represents the carets to axis vertical value.
+    /// </summary>
+    CaretsToAxisVertical,
+    /// <summary>
     /// Represents the carrot value.
     /// </summary>
     Carrot,
@@ -1514,6 +1594,22 @@ public enum LucideIcon
     /// </summary>
     ChevronsDownUp,
     /// <summary>
+    /// Represents the chevrons from axis dashed horizontal value.
+    /// </summary>
+    ChevronsFromAxisDashedHorizontal,
+    /// <summary>
+    /// Represents the chevrons from axis dashed vertical value.
+    /// </summary>
+    ChevronsFromAxisDashedVertical,
+    /// <summary>
+    /// Represents the chevrons from axis horizontal value.
+    /// </summary>
+    ChevronsFromAxisHorizontal,
+    /// <summary>
+    /// Represents the chevrons from axis vertical value.
+    /// </summary>
+    ChevronsFromAxisVertical,
+    /// <summary>
     /// Represents the chevrons left value.
     /// </summary>
     ChevronsLeft,
@@ -1534,6 +1630,22 @@ public enum LucideIcon
     /// </summary>
     ChevronsRightLeft,
     /// <summary>
+    /// Represents the chevrons to axis dashed horizontal value.
+    /// </summary>
+    ChevronsToAxisDashedHorizontal,
+    /// <summary>
+    /// Represents the chevrons to axis dashed vertical value.
+    /// </summary>
+    ChevronsToAxisDashedVertical,
+    /// <summary>
+    /// Represents the chevrons to axis horizontal value.
+    /// </summary>
+    ChevronsToAxisHorizontal,
+    /// <summary>
+    /// Represents the chevrons to axis vertical value.
+    /// </summary>
+    ChevronsToAxisVertical,
+    /// <summary>
     /// Represents the chevrons up value.
     /// </summary>
     ChevronsUp,
@@ -1553,6 +1665,10 @@ public enum LucideIcon
     /// Represents the cigarette off value.
     /// </summary>
     CigaretteOff,
+    /// <summary>
+    /// Represents the cinema value.
+    /// </summary>
+    Cinema,
     /// <summary>
     /// Represents the circle value.
     /// </summary>
@@ -1589,6 +1705,10 @@ public enum LucideIcon
     /// Represents the circle arrow up right exit value.
     /// </summary>
     CircleArrowUpRightExit,
+    /// <summary>
+    /// Represents the circle bounce value.
+    /// </summary>
+    CircleBounce,
     /// <summary>
     /// Represents the circle check value.
     /// </summary>
@@ -1813,6 +1933,10 @@ public enum LucideIcon
     /// Represents the circle percent value.
     /// </summary>
     CirclePercent,
+    /// <summary>
+    /// Represents the circle person arms spread value.
+    /// </summary>
+    CirclePersonArmsSpread,
     /// <summary>
     /// Represents the circle pile value.
     /// </summary>
@@ -2510,6 +2634,10 @@ public enum LucideIcon
     /// </summary>
     Dog,
     /// <summary>
+    /// Represents the doghouse value.
+    /// </summary>
+    Doghouse,
+    /// <summary>
     /// Represents the dollar sign value.
     /// </summary>
     DollarSign,
@@ -3098,14 +3226,6 @@ public enum LucideIcon
     /// </summary>
     Focus,
     /// <summary>
-    /// Represents the fold horizontal value.
-    /// </summary>
-    FoldHorizontal,
-    /// <summary>
-    /// Represents the fold vertical value.
-    /// </summary>
-    FoldVertical,
-    /// <summary>
     /// Represents the folder value.
     /// </summary>
     Folder,
@@ -3598,6 +3718,10 @@ public enum LucideIcon
     /// </summary>
     HandPlatter,
     /// <summary>
+    /// Represents the hand truck value.
+    /// </summary>
+    HandTruck,
+    /// <summary>
     /// Represents the handbag value.
     /// </summary>
     Handbag,
@@ -3769,6 +3893,14 @@ public enum LucideIcon
     /// Represents the house value.
     /// </summary>
     House,
+    /// <summary>
+    /// Represents the house arrow left value.
+    /// </summary>
+    HouseArrowLeft,
+    /// <summary>
+    /// Represents the house arrow right value.
+    /// </summary>
+    HouseArrowRight,
     /// <summary>
     /// Represents the house cog value.
     /// </summary>
@@ -5077,6 +5209,10 @@ public enum LucideIcon
     /// Represents the nfc value.
     /// </summary>
     Nfc,
+    /// <summary>
+    /// Represents the nigerian naira value.
+    /// </summary>
+    NigerianNaira,
     /// <summary>
     /// Represents the non binary value.
     /// </summary>
@@ -6614,6 +6750,22 @@ public enum LucideIcon
     /// </summary>
     SquareAsterisk,
     /// <summary>
+    /// Represents the square axis dashed horizontal value.
+    /// </summary>
+    SquareAxisDashedHorizontal,
+    /// <summary>
+    /// Represents the square axis dashed vertical value.
+    /// </summary>
+    SquareAxisDashedVertical,
+    /// <summary>
+    /// Represents the square axis horizontal value.
+    /// </summary>
+    SquareAxisHorizontal,
+    /// <summary>
+    /// Represents the square axis vertical value.
+    /// </summary>
+    SquareAxisVertical,
+    /// <summary>
     /// Represents the square bookmark value.
     /// </summary>
     SquareBookmark,
@@ -6621,14 +6773,6 @@ public enum LucideIcon
     /// Represents the square bottom dashed scissors value.
     /// </summary>
     SquareBottomDashedScissors,
-    /// <summary>
-    /// Represents the square centerline dashed horizontal value.
-    /// </summary>
-    SquareCenterlineDashedHorizontal,
-    /// <summary>
-    /// Represents the square centerline dashed vertical value.
-    /// </summary>
-    SquareCenterlineDashedVertical,
     /// <summary>
     /// Represents the square chart gantt value.
     /// </summary>
@@ -7158,6 +7302,10 @@ public enum LucideIcon
     /// </summary>
     StrokeLineJoinRound,
     /// <summary>
+    /// Represents the stroke width value.
+    /// </summary>
+    StrokeWidth,
+    /// <summary>
     /// Represents the subscript value.
     /// </summary>
     Subscript,
@@ -7618,14 +7766,6 @@ public enum LucideIcon
     /// </summary>
     TriangleRight,
     /// <summary>
-    /// Represents the triangles centerline dashed horizontal value.
-    /// </summary>
-    TrianglesCenterlineDashedHorizontal,
-    /// <summary>
-    /// Represents the triangles centerline dashed vertical value.
-    /// </summary>
-    TrianglesCenterlineDashedVertical,
-    /// <summary>
     /// Represents the trophy value.
     /// </summary>
     Trophy,
@@ -7697,14 +7837,6 @@ public enum LucideIcon
     /// Represents the undo dot value.
     /// </summary>
     UndoDot,
-    /// <summary>
-    /// Represents the unfold horizontal value.
-    /// </summary>
-    UnfoldHorizontal,
-    /// <summary>
-    /// Represents the unfold vertical value.
-    /// </summary>
-    UnfoldVertical,
     /// <summary>
     /// Represents the ungroup value.
     /// </summary>
@@ -8005,6 +8137,10 @@ public enum LucideIcon
     /// Represents the warehouse value.
     /// </summary>
     Warehouse,
+    /// <summary>
+    /// Represents the warehouse waves value.
+    /// </summary>
+    WarehouseWaves,
     /// <summary>
     /// Represents the washing machine value.
     /// </summary>
