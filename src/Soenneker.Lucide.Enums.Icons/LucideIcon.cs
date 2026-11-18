@@ -2546,6 +2546,10 @@ public enum LucideIcon
     /// </summary>
     DiagramFlowVertical,
     /// <summary>
+    /// Represents the diagram sankey value.
+    /// </summary>
+    DiagramSankey,
+    /// <summary>
     /// Represents the diameter value.
     /// </summary>
     Diameter,
