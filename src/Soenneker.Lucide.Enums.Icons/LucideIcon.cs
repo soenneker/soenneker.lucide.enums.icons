@@ -1002,6 +1002,10 @@ public enum LucideIcon
     /// </summary>
     Box,
     /// <summary>
+    /// Represents the box dashed value.
+    /// </summary>
+    BoxDashed,
+    /// <summary>
     /// Represents the boxes value.
     /// </summary>
     Boxes,
@@ -1653,6 +1657,10 @@ public enum LucideIcon
     /// Represents the chevrons up down value.
     /// </summary>
     ChevronsUpDown,
+    /// <summary>
+    /// Represents the chocolate bar value.
+    /// </summary>
+    ChocolateBar,
     /// <summary>
     /// Represents the church value.
     /// </summary>
@@ -3302,6 +3310,10 @@ public enum LucideIcon
     /// </summary>
     FolderMinus,
     /// <summary>
+    /// Represents the folder network value.
+    /// </summary>
+    FolderNetwork,
+    /// <summary>
     /// Represents the folder open value.
     /// </summary>
     FolderOpen,
@@ -3321,6 +3333,10 @@ public enum LucideIcon
     /// Represents the folder plus value.
     /// </summary>
     FolderPlus,
+    /// <summary>
+    /// Represents the folder plus corner value.
+    /// </summary>
+    FolderPlusCorner,
     /// <summary>
     /// Represents the folder root value.
     /// </summary>
@@ -5890,6 +5906,10 @@ public enum LucideIcon
     /// </summary>
     RectangleHorizontal,
     /// <summary>
+    /// Represents the rectangle landscape play value.
+    /// </summary>
+    RectangleLandscapePlay,
+    /// <summary>
     /// Represents the rectangle vertical value.
     /// </summary>
     RectangleVertical,
@@ -7933,6 +7953,10 @@ public enum LucideIcon
     /// Represents the user round check value.
     /// </summary>
     UserRoundCheck,
+    /// <summary>
+    /// Represents the user round clock value.
+    /// </summary>
+    UserRoundClock,
     /// <summary>
     /// Represents the user round cog value.
     /// </summary>
