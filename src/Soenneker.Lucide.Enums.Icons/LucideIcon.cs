@@ -1982,6 +1982,10 @@ public enum LucideIcon
     /// </summary>
     CircleSmall,
     /// <summary>
+    /// Represents the circle speed lines value.
+    /// </summary>
+    CircleSpeedLines,
+    /// <summary>
     /// Represents the circle star value.
     /// </summary>
     CircleStar,
@@ -3626,6 +3630,10 @@ public enum LucideIcon
     /// </summary>
     GraphHub,
     /// <summary>
+    /// Represents the graph path value.
+    /// </summary>
+    GraphPath,
+    /// <summary>
     /// Represents the graph ring value.
     /// </summary>
     GraphRing,
@@ -3881,6 +3889,10 @@ public enum LucideIcon
     /// Represents the hockey stick value.
     /// </summary>
     HockeyStick,
+    /// <summary>
+    /// Represents the hole value.
+    /// </summary>
+    Hole,
     /// <summary>
     /// Represents the hop value.
     /// </summary>
@@ -5329,6 +5341,10 @@ public enum LucideIcon
     /// Represents the package2 value.
     /// </summary>
     Package2,
+    /// <summary>
+    /// Represents the package arrow bend up left value.
+    /// </summary>
+    PackageArrowBendUpLeft,
     /// <summary>
     /// Represents the package check value.
     /// </summary>
