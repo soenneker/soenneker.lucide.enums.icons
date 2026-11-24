@@ -194,6 +194,10 @@ public enum LucideIcon
     /// </summary>
     AppWindowMac,
     /// <summary>
+    /// Represents the app window plus value.
+    /// </summary>
+    AppWindowPlus,
+    /// <summary>
     /// Represents the apple value.
     /// </summary>
     Apple,
@@ -7129,6 +7133,10 @@ public enum LucideIcon
     /// Represents the square plus value.
     /// </summary>
     SquarePlus,
+    /// <summary>
+    /// Represents the square plus corner value.
+    /// </summary>
+    SquarePlusCorner,
     /// <summary>
     /// Represents the square power value.
     /// </summary>
