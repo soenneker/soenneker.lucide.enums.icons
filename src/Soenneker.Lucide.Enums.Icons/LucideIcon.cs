@@ -194,6 +194,18 @@ public enum LucideIcon
     /// </summary>
     AppWindowMac,
     /// <summary>
+    /// Represents the app window mac minus value.
+    /// </summary>
+    AppWindowMacMinus,
+    /// <summary>
+    /// Represents the app window mac plus value.
+    /// </summary>
+    AppWindowMacPlus,
+    /// <summary>
+    /// Represents the app window minus value.
+    /// </summary>
+    AppWindowMinus,
+    /// <summary>
     /// Represents the app window plus value.
     /// </summary>
     AppWindowPlus,
@@ -2286,6 +2298,14 @@ public enum LucideIcon
     /// </summary>
     Columns2,
     /// <summary>
+    /// Represents the columns2 plus left value.
+    /// </summary>
+    Columns2PlusLeft,
+    /// <summary>
+    /// Represents the columns2 plus right value.
+    /// </summary>
+    Columns2PlusRight,
+    /// <summary>
     /// Represents the columns3 value.
     /// </summary>
     Columns3,
@@ -3121,6 +3141,10 @@ public enum LucideIcon
     /// Represents the file text value.
     /// </summary>
     FileText,
+    /// <summary>
+    /// Represents the file text sparkles value.
+    /// </summary>
+    FileTextSparkles,
     /// <summary>
     /// Represents the file type value.
     /// </summary>
@@ -4002,6 +4026,10 @@ public enum LucideIcon
     /// </summary>
     ImagePlus,
     /// <summary>
+    /// Represents the image sparkles value.
+    /// </summary>
+    ImageSparkles,
+    /// <summary>
     /// Represents the image up value.
     /// </summary>
     ImageUp,
@@ -4541,6 +4569,10 @@ public enum LucideIcon
     /// Represents the list x value.
     /// </summary>
     ListX,
+    /// <summary>
+    /// Represents the list x corner value.
+    /// </summary>
+    ListXCorner,
     /// <summary>
     /// Represents the loader value.
     /// </summary>
@@ -5694,6 +5726,10 @@ public enum LucideIcon
     /// </summary>
     PlaneLanding,
     /// <summary>
+    /// Represents the plane off value.
+    /// </summary>
+    PlaneOff,
+    /// <summary>
     /// Represents the plane takeoff value.
     /// </summary>
     PlaneTakeoff,
@@ -5926,6 +5962,10 @@ public enum LucideIcon
     /// </summary>
     RectangleHorizontal,
     /// <summary>
+    /// Represents the rectangle horizontal plus value.
+    /// </summary>
+    RectangleHorizontalPlus,
+    /// <summary>
     /// Represents the rectangle landscape play value.
     /// </summary>
     RectangleLandscapePlay,
@@ -6102,6 +6142,14 @@ public enum LucideIcon
     /// </summary>
     Rows2,
     /// <summary>
+    /// Represents the rows2 plus bottom value.
+    /// </summary>
+    Rows2PlusBottom,
+    /// <summary>
+    /// Represents the rows2 plus top value.
+    /// </summary>
+    Rows2PlusTop,
+    /// <summary>
     /// Represents the rows3 value.
     /// </summary>
     Rows3,
@@ -6265,6 +6313,10 @@ public enum LucideIcon
     /// Represents the screw value.
     /// </summary>
     Screw,
+    /// <summary>
+    /// Represents the screwdriver value.
+    /// </summary>
+    Screwdriver,
     /// <summary>
     /// Represents the scroll value.
     /// </summary>
@@ -7758,6 +7810,10 @@ public enum LucideIcon
     /// </summary>
     TrainFrontTunnel,
     /// <summary>
+    /// Represents the train high speed value.
+    /// </summary>
+    TrainHighSpeed,
+    /// <summary>
     /// Represents the train track value.
     /// </summary>
     TrainTrack,
@@ -7773,6 +7829,10 @@ public enum LucideIcon
     /// Represents the trash value.
     /// </summary>
     Trash,
+    /// <summary>
+    /// Represents the trash leaf value.
+    /// </summary>
+    TrashLeaf,
     /// <summary>
     /// Represents the trash off value.
     /// </summary>
