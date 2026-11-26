@@ -1014,6 +1014,10 @@ public enum LucideIcon
     /// </summary>
     BowArrow,
     /// <summary>
+    /// Represents the bowl chopsticks value.
+    /// </summary>
+    BowlChopsticks,
+    /// <summary>
     /// Represents the box value.
     /// </summary>
     Box,
@@ -2814,6 +2818,10 @@ public enum LucideIcon
     /// </summary>
     Eject,
     /// <summary>
+    /// Represents the elevator value.
+    /// </summary>
+    Elevator,
+    /// <summary>
     /// Represents the ellipse value.
     /// </summary>
     Ellipse,
@@ -3617,6 +3625,10 @@ public enum LucideIcon
     /// Represents the globe check value.
     /// </summary>
     GlobeCheck,
+    /// <summary>
+    /// Represents the globe clock value.
+    /// </summary>
+    GlobeClock,
     /// <summary>
     /// Represents the globe code value.
     /// </summary>
@@ -5962,13 +5974,13 @@ public enum LucideIcon
     /// </summary>
     RectangleHorizontal,
     /// <summary>
+    /// Represents the rectangle horizontal play value.
+    /// </summary>
+    RectangleHorizontalPlay,
+    /// <summary>
     /// Represents the rectangle horizontal plus value.
     /// </summary>
     RectangleHorizontalPlus,
-    /// <summary>
-    /// Represents the rectangle landscape play value.
-    /// </summary>
-    RectangleLandscapePlay,
     /// <summary>
     /// Represents the rectangle vertical value.
     /// </summary>
@@ -7321,6 +7333,10 @@ public enum LucideIcon
     /// Represents the star x value.
     /// </summary>
     StarX,
+    /// <summary>
+    /// Represents the steering wheel value.
+    /// </summary>
+    SteeringWheel,
     /// <summary>
     /// Represents the step back value.
     /// </summary>
