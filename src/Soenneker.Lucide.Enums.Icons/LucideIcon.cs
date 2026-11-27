@@ -1038,6 +1038,10 @@ public enum LucideIcon
     /// </summary>
     Braces,
     /// <summary>
+    /// Represents the braces sigma value.
+    /// </summary>
+    BracesSigma,
+    /// <summary>
     /// Represents the brackets value.
     /// </summary>
     Brackets,
