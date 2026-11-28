@@ -586,6 +586,10 @@ public enum LucideIcon
     /// </summary>
     BaggageClaim,
     /// <summary>
+    /// Represents the balcony value.
+    /// </summary>
+    Balcony,
+    /// <summary>
     /// Represents the ball wave value.
     /// </summary>
     BallWave,
@@ -1033,6 +1037,10 @@ public enum LucideIcon
     /// Represents the boxes linked value.
     /// </summary>
     BoxesLinked,
+    /// <summary>
+    /// Represents the boxing glove value.
+    /// </summary>
+    BoxingGlove,
     /// <summary>
     /// Represents the braces value.
     /// </summary>
@@ -1622,6 +1630,10 @@ public enum LucideIcon
     /// </summary>
     ChevronsDownUp,
     /// <summary>
+    /// Represents the chevrons down up offset value.
+    /// </summary>
+    ChevronsDownUpOffset,
+    /// <summary>
     /// Represents the chevrons from axis dashed horizontal value.
     /// </summary>
     ChevronsFromAxisDashedHorizontal,
@@ -1657,6 +1669,10 @@ public enum LucideIcon
     /// Represents the chevrons right left value.
     /// </summary>
     ChevronsRightLeft,
+    /// <summary>
+    /// Represents the chevrons right left offset value.
+    /// </summary>
+    ChevronsRightLeftOffset,
     /// <summary>
     /// Represents the chevrons to axis dashed horizontal value.
     /// </summary>
@@ -4702,6 +4718,10 @@ public enum LucideIcon
     /// </summary>
     MailSearch,
     /// <summary>
+    /// Represents the mail send value.
+    /// </summary>
+    MailSend,
+    /// <summary>
     /// Represents the mail x value.
     /// </summary>
     MailX,
@@ -7266,6 +7286,42 @@ public enum LucideIcon
     /// </summary>
     SquareText,
     /// <summary>
+    /// Represents the square text align bottom center value.
+    /// </summary>
+    SquareTextAlignBottomCenter,
+    /// <summary>
+    /// Represents the square text align bottom left value.
+    /// </summary>
+    SquareTextAlignBottomLeft,
+    /// <summary>
+    /// Represents the square text align bottom right value.
+    /// </summary>
+    SquareTextAlignBottomRight,
+    /// <summary>
+    /// Represents the square text align middle center value.
+    /// </summary>
+    SquareTextAlignMiddleCenter,
+    /// <summary>
+    /// Represents the square text align middle left value.
+    /// </summary>
+    SquareTextAlignMiddleLeft,
+    /// <summary>
+    /// Represents the square text align middle right value.
+    /// </summary>
+    SquareTextAlignMiddleRight,
+    /// <summary>
+    /// Represents the square text align top center value.
+    /// </summary>
+    SquareTextAlignTopCenter,
+    /// <summary>
+    /// Represents the square text align top left value.
+    /// </summary>
+    SquareTextAlignTopLeft,
+    /// <summary>
+    /// Represents the square text align top right value.
+    /// </summary>
+    SquareTextAlignTopRight,
+    /// <summary>
     /// Represents the square user value.
     /// </summary>
     SquareUser,
@@ -7305,6 +7361,14 @@ public enum LucideIcon
     /// Represents the squirrel value.
     /// </summary>
     Squirrel,
+    /// <summary>
+    /// Represents the stairs arrow down left value.
+    /// </summary>
+    StairsArrowDownLeft,
+    /// <summary>
+    /// Represents the stairs arrow up right value.
+    /// </summary>
+    StairsArrowUpRight,
     /// <summary>
     /// Represents the stamp value.
     /// </summary>
